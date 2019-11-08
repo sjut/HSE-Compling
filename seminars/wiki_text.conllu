@@ -1,0 +1,1977 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Мальтийский язык (собств. наименование — malti) — язык мальтийцев, официальный язык Республики Мальта (наряду с английским), один из официальных языков Европейского союза.
+1	Мальтийский	Мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesBefore=\n
+2	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	собств.	собствотреть	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	наименование	наименование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	_
+6	—	—	PUNCT	_	_	7	punct	_	_
+7	malti	malti	X	_	Foreign=Yes	5	parataxis	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	—	—	PUNCT	_	_	10	punct	_	_
+10	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+11	мальтийцев	мальтиец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	официальный	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+15	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	Мальта	Мальта	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	appos	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	наряду	наряду	ADV	_	Degree=Pos	14	parataxis	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	английским	английский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	один	один	NUM	_	Case=Nom|Gender=Masc	5	conj	_	_
+24	из	из	ADP	_	_	26	case	_	_
+25	официальных	официальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	_
+27	Европейского	Европейский	PROPN	_	_	28	amod	_	_
+28	союза	союз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 2
+# text = Относится к семитской семье афразийской (семито-хамитской) макросемьи языков.
+1	Относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	к	к	ADP	_	_	4	case	_	_
+3	семитской	семитский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	семье	семья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	obl	_	_
+5	афразийской	афразийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	семито-хамитской	семито-хамитский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	макросемьи	макросемий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+10	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Язык близок к арабскому, особенно к его магрибскому диалекту, однако в настоящее время считается отдельным языком со своими синтаксическими, фонетическими и лексическими особенностями.
+1	Язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	близок	близкий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	арабскому	арабский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	особенно	особенно	ADV	_	Degree=Pos	10	obl	_	_
+7	к	к	ADP	_	_	10	case	_	_
+8	его	его	DET	_	_	10	det	_	_
+9	магрибскому	магрибский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	диалекту	диалект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	однако	однако	ADV	_	Degree=Pos	16	advmod	_	_
+13	в	в	ADP	_	_	16	advmod	_	_
+14	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	fixed	_	_
+15	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	fixed	_	_
+16	считается	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	_
+17	отдельным	отдельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+19	со	с	ADP	_	_	26	case	_	_
+20	своими	свой	DET	_	Case=Ins|Number=Plur	26	det	_	_
+21	синтаксическими	синтаксический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	фонетическими	фонетический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	conj	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	лексическими	лексический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	conj	_	_
+26	особенностями	особенность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 4
+# text = Лингвогеография Число говорящих — 372 тыс. чел.
+1	Лингвогеография	Лингвогеография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+2	Число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+3	говорящих	говорить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+4	—	—	PUNCT	_	_	3	punct	_	_
+5	372	372	NUM	_	_	6	nummod	_	_
+6	тыс	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	чел	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text = Статус мальтийского языка определяется в статье 5 главы I конституции Мальты:
+1	Статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+2	мальтийского	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	определяется	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+7	5	5	NUM	_	_	8	nummod	_	_
+8	главы	глава	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	I	i	NUM	_	_	10	nummod	_	_
+10	конституции	конституция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = Национальным языком Мальты является мальтийский.
+1	Национальным	национальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+3	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 7
+# text = Мальтийский и английский языки, а также и другой язык, который может быть утверждён Парламентом (по закону, одобренному не менее, чем 2/3 всех членов Палаты представителей), должны быть официальными языками Мальты, и Администрация может использовать во всех своих официальных целях любой из этих языков, при условии, что любое лицо вправе обратиться к Администрации на любом из официальных языков и ответ Администрации данному лицу должен быть дан на том же языке.
+1	Мальтийский	Мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	английский	английский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+4	языки	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	а	а	CCONJ	_	_	10	cc	_	_
+7	также	также	PART	_	_	6	fixed	_	_
+8	и	и	PART	_	_	6	fixed	_	_
+9	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	который	который	PRON	_	Case=Nom	13	nsubj:pass	_	_
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+14	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	aux:pass	_	_
+15	утверждён	утвердить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	xcomp	_	_
+16	Парламентом	Парламент	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+17	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+18	по	по	ADP	_	_	19	case	_	_
+19	закону	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	одобренному	одобрить	VERB	_	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	parataxis	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	менее	менее	ADV	_	Degree=Cmp	21	advmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	30	punct	_	_
+25	чем	чем	SCONJ	_	_	30	mark	_	_
+26	2	2	NUM	_	_	30	nummod	_	SpaceAfter=No
+27	/	/	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	3	3	NUM	_	_	30	nummod	_	_
+29	всех	весь	DET	_	Case=Gen|Number=Plur	30	det	_	_
+30	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	advcl	_	_
+31	Палаты	Палата	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+32	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+33	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	4	punct	_	_
+35	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+36	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	38	cop	_	_
+37	официальными	официальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	38	amod	_	_
+38	языками	языка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	35	obl	_	_
+39	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	43	punct	_	_
+41	и	и	CCONJ	_	_	43	cc	_	_
+42	Администрация	администрация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	nsubj	_	_
+43	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	conj	_	_
+44	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	43	xcomp	_	_
+45	во	в	ADP	_	_	49	case	_	_
+46	всех	весь	DET	_	Case=Loc|Number=Plur	49	det	_	_
+47	своих	свой	DET	_	Case=Loc|Number=Plur	49	det	_	_
+48	официальных	официальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	49	amod	_	_
+49	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	44	obl	_	_
+50	любой	любой	DET	_	Case=Gen|Gender=Fem|Number=Sing	44	det	_	_
+51	из	из	ADP	_	_	53	case	_	_
+52	этих	этот	DET	_	Case=Gen|Number=Plur	53	det	_	_
+53	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	50	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	56	punct	_	_
+55	при	при	ADP	_	_	56	case	_	_
+56	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	43	obl	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	61	punct	_	_
+58	что	что	SCONJ	_	_	61	mark	_	_
+59	любое	любой	DET	_	Case=Nom|Gender=Neut|Number=Sing	60	det	_	_
+60	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	61	nsubj	_	_
+61	вправе	вправе	ADV	_	Degree=Pos	56	acl	_	_
+62	обратиться	обратиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	61	xcomp	_	_
+63	к	к	ADP	_	_	64	case	_	_
+64	Администрации	администрация	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	62	obl	_	_
+65	на	на	ADP	_	_	66	case	_	_
+66	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing	62	obl	_	_
+67	из	из	ADP	_	_	69	case	_	_
+68	официальных	официальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	69	amod	_	_
+69	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	66	nmod	_	_
+70	и	и	CCONJ	_	_	75	cc	_	_
+71	ответ	ответ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	75	nsubj:pass	_	_
+72	Администрации	администрация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	71	nmod	_	_
+73	данному	данный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	74	amod	_	_
+74	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	71	nmod	_	_
+75	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	61	conj	_	_
+76	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	77	aux:pass	_	_
+77	дан	дать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	75	xcomp	_	_
+78	на	на	ADP	_	_	81	case	_	_
+79	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	81	det	_	_
+80	же	же	PART	_	_	79	advmod	_	_
+81	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	77	obl	_	SpaceAfter=No
+82	.	.	PUNCT	_	_	35	punct	_	SpacesAfter=\n
+
+# sent_id = 8
+# text = Языком судопроизводства должен быть мальтийский, при условии, что парламент может издать постановление об использовании английского языка в случаях, и на условиях, определяемых в данном постановлении.
+1	Языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+2	судопроизводства	судопроизводство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	cop	_	_
+5	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	что	что	SCONJ	_	_	12	mark	_	_
+11	парламент	парламент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+13	издать	издать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	постановление	постановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+15	об	о	ADP	_	_	16	case	_	_
+16	использовании	использование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	nmod	_	_
+17	английского	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	12	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	определяемых	определять	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	постановлении	постановление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 9
+# text = Палата представителей может, регулируя свои собственные процессуальные нормы, определить язык или языки, которые должны использоваться в работе парламента и в протоколировании.
+1	Палата	Палата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	регулируя	регулировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	_
+6	свои	свой	DET	_	Case=Acc|Number=Plur	9	det	_	_
+7	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+8	процессуальные	процессуальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+12	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+13	или	или	CCONJ	_	_	14	cc	_	_
+14	языки	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которые	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	14	acl:relcl	_	_
+18	использоваться	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	17	xcomp	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	_
+21	парламента	парламент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	протоколировании	протоколирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 10
+# text = Большинство населения Мальты двуязычно.
+1	Большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	двуязычно	двуязычно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 11
+# text = Мальтийский язык используется в повседневном общении, в парламенте, в церкви, в СМИ, в Интернете.
+1	Мальтийский	Мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	повседневном	повседневный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	общении	общение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	парламенте	парламент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	церкви	церковь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	СМИ	сми	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	Интернете	Интернет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text = В разговоре мальтийский часто смешивается с английским.
+1	В	в	ADP	_	_	2	case	_	_
+2	разговоре	разговор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+3	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	часто	часто	ADV	_	Degree=Pos	5	advmod	_	_
+5	смешивается	смешивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	английским	английский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = На мальтийский как на официальный язык ЕС должны переводиться все официальные документы ЕС.
+1	На	на	ADP	_	_	2	case	_	_
+2	мальтийский	мальтийский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	obl	_	_
+3	как	как	SCONJ	_	_	6	mark	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	официальный	официальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+7	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+9	переводиться	переводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	8	xcomp	_	_
+10	все	весь	DET	_	Case=Nom|Number=Plur	12	det	_	_
+11	официальные	официальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	документы	документ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+13	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 14
+# text = В Интернете существует мальтийская версия портала Европейского союза.
+1	В	в	ADP	_	_	2	case	_	_
+2	Интернете	Интернет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+3	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мальтийская	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	версия	версия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	портала	портать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Европейского	Европейский	PROPN	_	_	8	amod	_	_
+8	союза	союз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = На мальтийском языке также говорят в Австралии, в среде выходцев из Мальты и их потомков.
+1	На	на	ADP	_	_	3	case	_	_
+2	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	также	также	ADV	_	Degree=Pos	5	advmod	_	_
+5	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	Австралии	Австралия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+11	выходцев	выходец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	из	из	ADP	_	_	13	case	_	_
+13	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	их	их	DET	_	_	16	det	_	_
+16	потомков	потомок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 16
+# text = У них сложился свой диалект — Maltraljan (Maltese Australian).
+1	У	у	ADP	_	_	2	case	_	_
+2	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	3	obl	_	_
+3	сложился	сложиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	свой	свой	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	_
+5	диалект	диалект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	—	—	PUNCT	_	_	7	punct	_	_
+7	Maltraljan	Maltraljan	PROPN	_	Foreign=Yes	5	appos	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Maltese	Maltese	PROPN	_	Foreign=Yes	7	flat:foreign	_	_
+10	Australian	Australian	PROPN	_	Foreign=Yes	7	flat:foreign	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = История Во время финикийской, позже карфагенской колонизации (800 до н. э. — 218 до н. э.) население мальтийских островов говорило на одном из финикийских (пунических) языков.
+1	История	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	SpacesAfter=\n
+2	Во	во	ADP	_	_	4	case	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	_
+4	финикийской	финикийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	23	punct	_	_
+6	позже	поздно	ADV	_	Degree=Cmp	23	advmod	_	_
+7	карфагенской	карфагенский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	колонизации	колонизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+9	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
+10	800	800	NUM	_	_	23	nummod	_	_
+11	до	до	ADP	_	_	13	case	_	_
+12	н.	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	13	det	_	_
+13	э.	эра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	_
+14	—	—	PUNCT	_	_	13	punct	_	_
+15	218	218	NUM	_	_	13	nummod	_	_
+16	до	до	ADP	_	_	18	case	_	_
+17	н.	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	18	det	_	_
+18	э.	эра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	15	punct	_	_
+20	население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+21	мальтийских	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	островов	остров	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+23	говорило	говорить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	одном	один	NUM	_	Case=Loc|Gender=Masc	23	nummod	_	_
+26	из	из	ADP	_	_	31	case	_	_
+27	финикийских	финикийский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	пунических	пунический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	appos	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	29	punct	_	_
+31	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 18
+# text = На финикийском наречии продолжали говорить также в период римского (с 218 до н. э.), а после разделения империи на Западную и Восточную — «восточно-римского» (византийского) владычества (в 395—870 н. э.).
+1	На	на	ADP	_	_	3	case	_	_
+2	финикийском	финикийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	наречии	наречие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+4	продолжали	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	также	также	ADV	_	Degree=Pos	5	advmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+9	римского	римский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
+10	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	с	с	ADP	_	_	12	case	_	_
+12	218	218	NUM	_	_	9	nummod	_	_
+13	до	до	ADP	_	_	15	case	_	_
+14	н.	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	15	det	_	_
+15	э.	эра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	а	а	CCONJ	_	_	20	cc	_	_
+19	после	после	ADP	_	_	20	case	_	_
+20	разделения	разделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	conj	_	_
+21	империи	империя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	на	на	ADP	_	_	31	case	_	_
+23	Западную	Западный	PROPN	_	_	31	amod	_	_
+24	и	и	CCONJ	_	_	27	cc	_	_
+25	Восточную	восточный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+26	—	—	PUNCT	_	_	25	punct	_	_
+27	«восточно-римского»	«восточно-римского»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	византийского	византийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	appos	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	29	punct	_	_
+31	владычества	владычество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+32	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+33	в	в	ADP	_	_	38	case	_	_
+34	395	395	NUM	_	_	38	nummod	_	SpaceAfter=No
+35	—	—	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	870	870	NUM	_	_	38	nummod	_	_
+37	н.	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	38	det	_	_
+38	э.	эра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	parataxis	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = В 870 году острова были завоёваны арабами.
+1	В	в	ADP	_	_	3	case	_	_
+2	870	870	NUM	_	_	3	nummod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	острова	остров	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj:pass	_	_
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	завоёваны	завоёвать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	арабами	араб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 20
+# text = Арабский язык распространился и среди коренного населения, в частности, благодаря своему родству с финикийским.
+1	Арабский	арабский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	распространился	распространиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	и	и	CCONJ	_	_	7	cc	_	_
+5	среди	среди	ADP	_	_	7	case	_	_
+6	коренного	коренной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	в	в	ADP	_	_	14	discourse	_	_
+10	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	fixed	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	благодаря	благодаря	ADP	_	_	14	case	_	_
+13	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing	14	det	_	_
+14	родству	родство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	финикийским	финикийский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 21
+# text = При этом разговорная речь арабов и, соответственно, местного населения отличалась от классического письменного арабского.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+3	разговорная	разговорный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+5	арабов	араб	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	и	и	CCONJ	_	_	11	cc	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	соответственно	соответственно	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+12	отличалась	отличаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	от	от	ADP	_	_	16	case	_	_
+14	классического	классический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+15	письменного	письменный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	арабского	арабский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 22
+# text = В этот период можно говорить о существовании двух диалектов: классический арабский письменный язык и сицилийско-арабский народно-разговорный язык, центром распространения которого стал Сицилийский эмират.
+1	В	в	ADP	_	_	3	case	_	_
+2	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	о	о	ADP	_	_	7	case	_	_
+7	существовании	существование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	двух	два	NUM	_	Case=Gen	9	nummod	_	_
+9	диалектов	диалект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	7	punct	_	_
+11	классический	классический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+12	арабский	арабский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+13	письменный	письменный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
+15	и	и	CCONJ	_	_	22	cc	_	_
+16	сицилийско	сицилийский	ADJ	_	Degree=Pos	18	compound	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	арабский	арабский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+19	народно	народный	ADJ	_	Degree=Pos	21	compound	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	разговорный	разговорный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	центром	центр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	conj	_	_
+25	распространения	распространение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	которого	который	PRON	_	Case=Gen	25	nmod	_	_
+27	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	_
+28	Сицилийский	сицилийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	эмират	эмират	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 23
+# text = После вторжения норманнов сицилийско-арабский язык был постепенно вытеснен с Сицилии, однако он сохранился на небольшом периферийном острове Мальта (хотя и испытал на себе сильное романское влияние).
+1	После	после	ADP	_	_	2	case	_	_
+2	вторжения	вторжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+3	норманнов	норманн	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	сицилийско	сицилийский	ADJ	_	Degree=Pos	6	compound	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	арабский	арабский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	_
+9	постепенно	постепенно	ADV	_	Degree=Pos	10	advmod	_	_
+10	вытеснен	вытеснить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	Сицилии	Сицилия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	однако	однако	ADV	_	Degree=Pos	16	advmod	_	_
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+16	сохранился	сохраниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	_
+17	на	на	ADP	_	_	20	case	_	_
+18	небольшом	небольшой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+19	периферийном	периферийный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	острове	остров	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+21	Мальта	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+23	хотя	хотя	SCONJ	_	_	25	mark	_	_
+24	и	и	PART	_	_	25	advmod	_	_
+25	испытал	испытать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	себе	себя	PRON	_	Case=Loc	25	obl	_	_
+28	сильное	сильный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+29	романское	романский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obj	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 24
+# text = Именно от него и происходит нынешний мальтийский язык.
+1	Именно	именно	PART	_	_	3	advmod	_	_
+2	от	от	ADP	_	_	3	case	_	_
+3	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	obl	_	_
+4	и	и	PART	_	_	5	advmod	_	_
+5	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	нынешний	нынешний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = Новый этап начался с норманнским завоеванием Мальты в 1090 году и присоединением её к Сицилии.
+1	Новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	начался	начаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	с	с	ADP	_	_	6	case	_	_
+5	норманнским	норманнский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	завоеванием	завоевание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+7	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	1090	1090	NUM	_	_	10	nummod	_	_
+10	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	присоединением	присоединение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	conj	_	_
+13	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
+14	к	к	ADP	_	_	15	case	_	_
+15	Сицилии	Сицилия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 26
+# text = Язык администрации относился к романским, и в это время произошёл новый языковой семито-романский контакт.
+1	Язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	администрации	администрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	относился	относиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	к	к	ADP	_	_	5	case	_	_
+5	романским	романский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	и	и	CCONJ	_	_	11	cc	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
+10	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+11	произошёл	произойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+12	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+13	языковой	языковой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+14	семито	семито	ADJ	_	Degree=Pos	16	compound	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	романский	романский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	контакт	контакт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 27
+# text = Полной романизации населения, как и в римскую эпоху, не произошло, так как арабы продолжительное время оставались на островах и оказывали значительное культурное и языковое влияние, однако уже тогда в язык попали первые романские заимствования.
+1	Полной	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	романизации	романизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	_
+3	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	как	как	SCONJ	_	_	9	mark	_	_
+6	и	и	PART	_	_	9	advmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	римскую	римский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	эпоху	эпоха	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	acl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	так	так	ADV	_	Degree=Pos	19	mark	_	_
+15	как	как	SCONJ	_	_	14	fixed	_	_
+16	арабы	араб	PART	_	_	18	advmod	_	_
+17	продолжительное	продолжительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+19	оставались	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	advcl	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	островах	остров	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	оказывали	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
+24	значительное	значительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+25	культурное	культурный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	языковое	языковой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	conj	_	_
+28	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	35	punct	_	_
+30	однако	однако	ADV	_	Degree=Pos	35	advmod	_	_
+31	уже	уже	ADV	_	Degree=Pos	32	advmod	_	_
+32	тогда	тогда	ADV	_	Degree=Pos	35	advmod	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obl	_	_
+35	попали	попасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
+36	первые	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	amod	_	_
+37	романские	романский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	amod	_	_
+38	заимствования	заимствование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	35	obj	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	35	punct	_	_
+
+# sent_id = 28
+# text = Арабы покинули Мальту через 100—150 лет, и вследствие этого произошло размежевание мальтийского и арабского.
+1	Арабы	Араб	SCONJ	_	_	2	mark	_	_
+2	покинули	покинуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Мальту	Мальта	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	через	через	ADP	_	_	8	case	_	_
+5	100	100	NUM	_	_	8	nummod	_	SpaceAfter=No
+6	—	—	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	150	150	NUM	_	_	8	nummod	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	и	и	CCONJ	_	_	13	cc	_	_
+11	вследствие	вследствие	ADP	_	_	12	case	_	_
+12	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+13	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+14	размежевание	размежевание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+15	мальтийского	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	obl	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	арабского	арабский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = Мальта была связана с Сицилией на протяжении 440 лет, переходила вместе с ней от одной феодальной юрисдикции к другой, и в течение этого времени количество романских заимствований увеличивалось.
+1	Мальта	Мальта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	связана	связать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	Сицилией	Сицилия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	протяжении	протяжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+8	440	440	NUM	_	_	9	nummod	_	_
+9	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	переходила	переходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+12	вместе	вместе	ADV	_	Degree=Pos	11	advmod	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	12	obl	_	_
+15	от	от	ADP	_	_	18	case	_	_
+16	одной	один	NUM	_	Case=Gen|Gender=Fem	18	nummod	_	_
+17	феодальной	феодальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	юрисдикции	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	другой	другой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	30	punct	_	_
+22	и	и	CCONJ	_	_	30	cc	_	_
+23	в	в	ADP	_	_	26	case	_	_
+24	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	26	det	_	_
+26	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	_
+27	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	_
+28	романских	романский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	заимствований	заимствование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	27	nmod	_	_
+30	увеличивалось	увеличиваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 30
+# text = К XV веку относится первый известный литературный текст на мальтийском языке — поэма «Il Cantilena».
+1	К	к	ADP	_	_	3	case	_	_
+2	XV	xv	NUM	_	_	3	nummod	_	_
+3	веку	век	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+4	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+6	известный	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	литературный	литературный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	текст	текст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+9	на	на	ADP	_	_	11	case	_	_
+10	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+12	—	—	PUNCT	_	_	13	punct	_	_
+13	поэма	поэма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	appos	_	_
+14	«Il	«Il	PROPN	_	Foreign=Yes	13	flat:foreign	_	_
+15	Cantilena»	Cantilena»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = Наиболее сильное романское воздействие язык получил во время правления на Мальте рыцарского ордена Святого Иоанна — с 1530 по 1798 гг.
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	obl	_	_
+2	сильное	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+3	романское	романский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+6	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	во	во	ADP	_	_	9	case	_	_
+8	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	правления	правление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	Мальте	Мальта	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	_
+12	рыцарского	рыцарский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	ордена	орден	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	Святого	святой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	Иоанна	Иоанн	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	—	—	PUNCT	_	_	6	punct	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	1530	1530	NUM	_	_	16	nummod	_	_
+19	по	по	ADP	_	_	21	case	_	_
+20	1798	1798	NUM	_	_	21	nummod	_	_
+21	гг	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 32
+# text = В это время письменными языками были латынь и итальянский (сицилийский и классический), однако известны отдельные попытки писать и на мальтийском, например поэма Бонамико (Bonamico), 1672.
+1	В	в	ADP	_	_	3	case	_	_
+2	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+4	письменными	письменный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	amod	_	_
+5	языками	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	0	root	_	_
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	латынь	латынь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	итальянский	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	сицилийский	сицилийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	appos	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	классический	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	однако	однако	ADV	_	Degree=Pos	17	obl	_	_
+17	известны	известный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	conj	_	_
+18	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	_
+20	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	obl	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	например	например	ADV	_	Degree=Pos	26	obl	_	_
+26	поэма	поэма	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	23	parataxis	_	_
+27	Бонамико	Бонамико	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	Bonamico	Bonamico	PROPN	_	Foreign=Yes	27	flat:foreign	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	1672	1672	NUM	_	_	27	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 33
+# text = Первая опубликованная книга на мальтийском языке — катехизис Виццино (Wizzino), датируется 1752 годом.
+1	Первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	опубликованная	опубликовать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	книга	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj:pass	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+7	—	—	PUNCT	_	_	8	punct	_	_
+8	катехизис	катехизис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+9	Виццино	Виццино	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	Wizzino	Wizzino	PROPN	_	Foreign=Yes	8	flat:foreign	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	3	punct	_	_
+14	датируется	датировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+15	1752	1752	NUM	_	_	16	nummod	_	_
+16	годом	год	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = В 1800 году Мальта была присоединена к Великобритании.
+1	В	в	ADP	_	_	3	case	_	_
+2	1800	1800	NUM	_	_	3	nummod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	Мальта	Мальта	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	присоединена	присоединить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 35
+# text = Несмотря на это, в течение XIX века английский язык не занимал той важной позиции на Мальте, которую занимает сегодня, официальным письменным языком оставался итальянский, разговорным — мальтийский.
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	3	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	8	case	_	_
+6	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	fixed	_	_
+7	XIX	xix	NUM	_	_	8	nummod	_	_
+8	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+9	английский	английский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	занимал	занимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing	15	det	_	_
+14	важной	важный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	позиции	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	Мальте	Мальта	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	которую	который	PRON	_	Case=Acc	20	obj	_	_
+20	занимает	занимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
+21	сегодня	сегодня	ADV	_	Degree=Pos	20	advmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	официальным	официальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+24	письменным	письменный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	obl	_	_
+26	оставался	оставаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	conj	_	_
+27	итальянский	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	nsubj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	разговорным	разговорный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	27	conj	_	_
+30	—	—	PUNCT	_	_	31	punct	_	_
+31	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	nsubj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = Говоря об истории мальтийского языка, следует отметить деятельность Микиля Антона Вассалли (Mikiel Anton Vassalli, 1764—1829).
+1	Говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	_
+2	об	о	ADP	_	_	3	case	_	_
+3	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+4	мальтийского	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	_
+9	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+10	Микиля	Микиль	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	Антона	Антон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	appos	_	_
+12	Вассалли	Вассалли	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Mikiel	Mikiel	PROPN	_	Foreign=Yes	11	flat:foreign	_	_
+15	Anton	Anton	PROPN	_	Foreign=Yes	11	flat:foreign	_	_
+16	Vassalli	Vassalli	PROPN	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	1764	1764	NUM	_	_	16	nummod	_	SpaceAfter=No
+19	—	—	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	1829	1829	NUM	_	_	18	conj	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = Он составил словарь мальтийского языка и описание мальтийской грамматики, перевёл на мальтийский часть Нового Завета.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	составил	составить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	словарь	словарь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	мальтийского	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	описание	описание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	conj	_	_
+8	мальтийской	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	грамматики	грамматика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	перевёл	перевести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	мальтийский	мальтийский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	Нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	Завета	Завет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = В 1921 году Мальте было предоставлено самоуправление, по конституции официальными языками стали итальянский и английский.
+1	В	в	ADP	_	_	3	case	_	_
+2	1921	1921	NUM	_	_	3	nummod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	Мальте	Мальта	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	предоставлено	предоставить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	самоуправление	самоуправление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	конституции	конституция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+11	официальными	официальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+12	языками	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	nmod	_	_
+13	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	_
+14	итальянский	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	nsubj	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	английский	английский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 39
+# text = В 1936 году мальтийский получил статус официального языка, взамен итальянского.
+1	В	в	ADP	_	_	3	case	_	_
+2	1936	1936	NUM	_	_	3	nummod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+7	официального	официальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	взамен	взамен	ADP	_	_	11	case	_	_
+11	итальянского	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 40
+# text = Мальтийский и английский остались государственными языками и после провозглашения независимости Мальты в 1964 году.
+1	Мальтийский	Мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	английский	английский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+4	остались	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	государственными	государственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	языками	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	после	после	ADP	_	_	9	case	_	_
+9	провозглашения	провозглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
+10	независимости	независимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	1964	1964	NUM	_	_	14	nummod	_	_
+14	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = 1 мая 2004 года, в связи со вступлением Мальты в ЕС, мальтийский язык стал официальным языком ЕС.
+1	1	1	NUM	_	_	16	nummod	_	_
+2	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	2004	2004	NUM	_	_	4	nummod	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	fixed	_	_
+8	со	с	ADP	_	_	6	fixed	_	_
+9	вступлением	вступление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+10	Мальты	Мальта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	мальтийский	мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+16	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+17	официальным	официальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+19	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = Письменность Мальтийский — единственный из семитских языков с письменностью на основе латинского алфавита.
+1	Письменность	письменность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+2	Мальтийский	Мальтийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	—	—	PUNCT	_	_	2	punct	_	_
+4	единственный	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	_
+5	из	из	ADP	_	_	7	case	_	_
+6	семитских	семитский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	письменностью	письменность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+12	латинского	латинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	алфавита	алфавит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+
+# sent_id = 43
+# text = В алфавит иногда включают букву c (сортируется после ċ), однако эта буква встречается только в заимствованных словах, в основном итальянского и английского происхождения, напр. camping — «кэмпинг» (с другой стороны, во многих словах c заменяется на k, напр.
+1	В	в	ADP	_	_	2	case	_	_
+2	алфавит	алфавить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+3	иногда	иногда	ADV	_	Degree=Pos	4	advmod	_	_
+4	включают	включить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	букву	буква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	c	c	X	_	Foreign=Yes	5	flat:foreign	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	сортируется	сортируться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	_
+9	после	после	ADP	_	_	10	case	_	_
+10	ċ	ċ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	однако	однако	ADV	_	Degree=Pos	16	advmod	_	_
+14	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	15	det	_	_
+15	буква	буква	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+16	встречается	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+17	только	только	PART	_	_	20	advmod	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	заимствованных	заимствованный	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	_
+20	словах	слово	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	16	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	24	obl	_	_
+24	итальянского	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	английского	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	conj	_	_
+27	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	напр.	напр.	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	conj	_	_
+30	camping	camping	X	_	Foreign=Yes	29	obj	_	_
+31	—	—	PUNCT	_	_	32	punct	_	_
+32	«кэмпинг»	«кэмпинг»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+33	(	(	PUNCT	_	_	42	punct	_	SpaceAfter=No
+34	с	с	ADP	_	_	36	case	_	_
+35	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	parataxis	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	36	punct	_	_
+38	во	в	ADP	_	_	40	case	_	_
+39	многих	много	NUM	_	_	40	amod	_	_
+40	словах	слово	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	42	obl	_	_
+41	c	c	ADP	_	_	42	case	_	_
+42	заменяется	заменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	32	parataxis	_	_
+43	на	на	ADP	_	_	44	case	_	_
+44	k	k	X	_	Foreign=Yes	42	obl	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	напр	напр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	42	parataxis	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	42	punct	_	_
+
+# sent_id = 44
+# text = kompjuter — «компьютер», от англ. computer).
+1	kompjuter	kompjuter	X	_	Foreign=Yes	0	root	_	_
+2	—	—	PUNCT	_	_	3	punct	_	_
+3	«компьютер»	«компьютер»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	англ.	английский	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	_
+7	computer	computer	X	_	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = Лингвистическая характеристика Просодия Ударение в мальтийском, как правило, падает на предпоследний слог, если иной слог не является долгим.
+1	Лингвистическая	лингвистический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	характеристика	характеристика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpacesAfter=\n
+3	Просодия	Просодий	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\n
+4	Ударение	Ударение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	как	как	SCONJ	_	_	9	mark	_	_
+9	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	падает	падать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	предпоследний	предпоследний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	слог	слог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	если	если	SCONJ	_	_	20	mark	_	_
+17	иной	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	слог	слог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	advcl	_	_
+21	долгим	долгий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	20	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = Морфология Грамматика мальтийского языка семитского типа, с романским влиянием.
+1	Морфология	морфология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+2	Грамматика	грамматика	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	мальтийского	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	семитского	семитский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	романским	романский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Прилагательные следуют за существительными, отсутствует наречие как самостоятельная форма, порядок слов достаточно гибок.
+1	Прилагательные	Прилагательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	nsubj	_	_
+2	следуют	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	за	за	ADP	_	_	4	case	_	_
+4	существительными	существительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	наречие	наречие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+8	как	как	SCONJ	_	_	10	mark	_	_
+9	самостоятельная	самостоятельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	форма	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+13	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+14	достаточно	достаточный	ADV	_	Degree=Pos	15	obl	_	_
+15	гибок	гибка	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 48
+# text = Имеется определённый артикль.
+1	Имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	определённый	определённый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	артикль	артикль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = Как в арабском и иврите, артикль ставится и перед существительными, и перед прилагательными, напр.
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	арабском	арабский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	иврите	иврить	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	артикль	артикль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+8	ставится	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	и	и	PART	_	_	11	advmod	_	_
+10	перед	перед	ADP	_	_	11	case	_	_
+11	существительными	существительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	перед	перед	ADP	_	_	15	case	_	_
+15	прилагательными	прилагательный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	напр	напр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 50
+# text = L-Art l-Imqaddsa — «Святая земля» (дословный перевод — «Земля Святая»; ср. также араб. الأرض المقدسة‎, ʾAl-ʾArḍ ʾal-Muqaddasa с тем же значением).
+1	L-Art	l-art	X	_	Foreign=Yes	0	root	_	_
+2	l	l	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Imqaddsa	Imqaddsa	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	—	—	PUNCT	_	_	7	punct	_	_
+6	«Святая	«Святый	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	земля»	земля»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	appos	_	_
+8	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	дословный	дословный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	перевод	перевод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	parataxis	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	«Земля	«Земль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+13	Святая»	Святая»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+14	;	;	PUNCT	_	_	10	punct	_	_
+15	ср.	сровнять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	conj	_	_
+16	также	также	ADV	_	Degree=Pos	15	advmod	_	_
+17	араб	араб	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	الأرض	الارض	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	المقدسة‎	المقدسة‎	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	ʾAl-ʾArḍ	ʾAl-ʾArḍ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+23	ʾal-Muqaddasa	ʾal-Muqaddasa	PROPN	_	Foreign=Yes	22	flat:foreign	_	_
+24	с	с	ADP	_	_	27	case	_	_
+25	тем	тот	DET	_	Case=Ins|Gender=Neut|Number=Sing	27	det	_	_
+26	же	же	PART	_	_	25	advmod	_	_
+27	значением	значение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = Однако это правило относится только к семитским словам и не действует при употреблении существительных и прилагательных романского происхождения.
+1	Однако	однако	ADV	_	Degree=Pos	4	advmod	_	_
+2	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+3	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	только	только	PART	_	_	8	advmod	_	_
+6	к	к	ADP	_	_	8	case	_	_
+7	семитским	семитский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	8	amod	_	_
+8	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+9	и	и	CCONJ	_	_	11	advmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	при	при	ADP	_	_	13	case	_	_
+13	употреблении	употребление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+14	существительных	существительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	прилагательных	прилагательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	conj	_	_
+17	романского	романский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = Существительные изменяются по числам.
+1	Существительные	Существительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	nsubj:pass	_	_
+2	изменяются	изменяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	числам	число	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 53
+# text = У существительных романского происхождения множественное число образуется добавлением -i или -jiet: lingwa («язык», ср. итал. lingua) — lingwi; arti («искусство», ср. итал. arte) — artijiet.
+1	У	у	ADP	_	_	4	case	_	_
+2	существительных	существительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+3	романского	романский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+5	множественное	множественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+7	образуется	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	добавлением	добавление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	i	i	X	_	Foreign=Yes	8	flat:foreign	_	_
+11	или	или	CCONJ	_	_	8	cc	_	_
+12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	jiet	jiet	X	_	Foreign=Yes	8	flat:foreign	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	8	punct	_	_
+15	lingwa	lingwa	X	_	Foreign=Yes	8	parataxis	_	_
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	«язык»	«язык»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	appos	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	ср.	сровнять	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+20	итал	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+22	lingua	lingua	X	_	Foreign=Yes	17	appos	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	_
+24	—	—	PUNCT	_	_	25	punct	_	_
+25	lingwi	lingwi	X	_	Foreign=Yes	22	flat:foreign	_	SpaceAfter=No
+26	;	;	PUNCT	_	_	22	punct	_	_
+27	arti	arti	X	_	Foreign=Yes	22	flat:foreign	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	«искусство»	«искусство»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	appos	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	ср.	сровнять	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+32	итал	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	appos	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	_
+34	arte	arte	X	_	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No
+35	)	)	PUNCT	_	_	34	punct	_	_
+36	—	—	PUNCT	_	_	37	punct	_	_
+37	artijiet	artijiet	X	_	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 54
+# text = С существительными семитского происхождения всё гораздо сложнее.
+1	С	с	ADP	_	_	4	case	_	_
+2	существительными	существительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	_
+3	семитского	семитский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+5	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	гораздо	гораздо	ADV	_	Degree=Pos	7	advmod	_	_
+7	сложнее	сложный	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 55
+# text = Такие существительные делятся на правильные и неправильные.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	существительные	существительный	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	делятся	делить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	правильные	правильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	obl	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	неправильные	неправильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 56
+# text = У правильных существительных множественное число образуется добавлением -iet / -jiet (соответствует -at в арабском и -ot в иврите) или -in (соответствует -im в иврите).
+1	У	у	ADP	_	_	5	case	_	_
+2	правильных	правильный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+3	существительных	существительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	множественное	множественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
+6	образуется	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	добавлением	добавление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	iet	iet	X	_	Foreign=Yes	7	parataxis	_	_
+10	/	/	PUNCT	_	_	12	punct	_	_
+11	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	jiet	jiet	X	_	Foreign=Yes	9	appos	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+15	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	at	at	X	_	Foreign=Yes	14	flat:foreign	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	арабском	арабский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	-ot	-ot	X	_	Foreign=Yes	18	conj	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	иврите	иврит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	14	punct	_	_
+24	или	или	CCONJ	_	_	9	appos	_	_
+25	-	-	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	in	in	X	_	Foreign=Yes	24	appos	_	_
+27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	parataxis	_	_
+29	-	-	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	im	im	X	_	Foreign=Yes	28	nsubj	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	иврите	иврит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+33	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 57
+# text = У неправильных же существительных множественное число образуется изменением гласных внутри: ktieb («книга») — kotba, raġel («человек») — irġiel.
+1	У	у	ADP	_	_	6	case	_	_
+2	неправильных	неправильный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	существительных	существительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+5	множественное	множественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+7	образуется	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	изменением	изменение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+9	гласных	гласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	obl	_	_
+10	внутри	внутри	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	ktieb	ktieb	NOUN	_	_	10	parataxis	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	«книга»	«книга»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	—	—	PUNCT	_	_	17	punct	_	_
+17	kotba	kotba	X	_	Foreign=Yes	12	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	raġel	raġel	X	_	Foreign=Yes	17	flat:foreign	_	_
+20	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	«человек»	«человек»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	parataxis	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	21	punct	_	_
+23	—	—	PUNCT	_	_	24	punct	_	_
+24	irġiel	irġiel	X	_	Foreign=Yes	17	flat:foreign	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 58
+# text = Такая система очень развита в арабском и встречается в иврите.
+1	Такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	очень	очень	ADV	_	Degree=Pos	4	obl	_	_
+4	развита	развитый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	арабском	арабский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	obl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	встречается	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	иврите	иврит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 59
+# text = Кроме множественного числа в мальтийском языке также имеется двойственное.
+1	Кроме	кроме	ADP	_	_	3	case	_	_
+2	множественного	множественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	числа	число	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+7	также	также	ADV	_	Degree=Pos	8	advmod	_	_
+8	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	двойственное	двойственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 60
+# text = Оно образуется с помощью суффикса -ejn или -ajn и употребляется при указании двух или парных предметов, напр.
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	_
+2	образуется	образовываться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	с	с	ADP	_	_	5	case	_	_
+4	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	fixed	_	_
+5	суффикса	суффикс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	ejn	ejн-лат	NOUN	_	_	5	parataxis	_	_
+8	или	или	CCONJ	_	_	10	cc	_	_
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	ajn	ajн-лат	NOUN	_	_	7	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	употребляется	употреблять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	_
+13	при	при	ADP	_	_	14	case	_	_
+14	указании	указание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+15	двух	два	NUM	_	Case=Gen	18	nummod	_	_
+16	или	или	CCONJ	_	_	17	cc	_	_
+17	парных	парной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	предметов	предмет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	напр	напр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 61
+# text = jum («день») — jumejn («два дня»), id («рука») — idejn («обе руки»).
+1	jum	jum	X	_	Foreign=Yes	0	root	_	_
+2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	«день»	«день»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
+4	)	)	PUNCT	_	_	3	punct	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	jumejn	jumejn	X	_	Foreign=Yes	1	conj	_	_
+7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	«два	«дво	NUM	_	Case=Nom|Gender=Masc	9	nummod:gov	_	_
+9	дня»	дня»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	id	id	X	_	Foreign=Yes	1	flat:foreign	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	«рука»	«рука»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	—	—	PUNCT	_	_	17	punct	_	_
+17	idejn	idejn	X	_	Foreign=Yes	1	conj	_	_
+18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	«обе	«оба	NUM	_	Case=Nom|Gender=Fem	20	nummod:gov	_	_
+20	руки»	руки»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	parataxis	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = В глаголах можно выделить семитский корень, состоящий из трёх согласных.
+1	В	в	ADP	_	_	2	case	_	_
+2	глаголах	глагол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	_
+3	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+4	выделить	выделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	семитский	семитский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	корень	корень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	состоящий	состоять	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+9	из	из	ADP	_	_	11	case	_	_
+10	трёх	три	NUM	_	Case=Gen	11	nummod	_	_
+11	согласных	согласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 63
+# text = Глагол спрягается добавлением к этому корню внутренних гласных, а также суффиксов и приставок.
+1	Глагол	глагол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+2	спрягается	спрягаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	добавлением	добавление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+4	к	к	ADP	_	_	6	case	_	_
+5	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+6	корню	корень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+7	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	nmod	_	_
+8	гласных	гласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	а	а	CCONJ	_	_	12	cc	_	_
+11	также	также	PART	_	_	10	fixed	_	_
+12	суффиксов	суффикс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	приставок	приставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 64
+# text = Пример: ktb — корень, означающий «писать», ktibna — «мы написали» (ср. араб. katabna, иврит.
+1	Пример	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	ktb	ktb	NOUN	_	_	1	parataxis	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	корень	корень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	означающий	означать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+8	«писать»	«писать»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	ktibna	ktibna	X	_	Foreign=Yes	8	conj	_	_
+11	—	—	PUNCT	_	_	10	punct	_	_
+12	«мы	«ма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+13	написали»	написали»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	ср.	сровнять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	13	parataxis	_	_
+16	араб	араб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	18	punct	_	_
+18	katabna	katabna	X	_	Foreign=Yes	15	nsubj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	иврит	иврить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 65
+# text = katavnu с теми же значениями).
+1	katavnu	katavnu	X	_	Foreign=Yes	0	root	_	_
+2	с	с	ADP	_	_	5	case	_	_
+3	теми	тот	DET	_	Case=Ins|Number=Plur	5	det	_	_
+4	же	же	PART	_	_	3	advmod	_	_
+5	значениями	значение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = Существуют два времени: настоящее и прошедшее (перфект).
+1	Существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	два	два	NUM	_	Case=Acc|Gender=Neut	3	nummod:gov	_	_
+3	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	настоящее	настоящий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	прошедшее	пройти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	перфект	перфект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = Для выражения будущего используются формы настоящего времени с добавлением частиц или вспомогательных глаголов.
+1	Для	для	ADP	_	_	2	case	_	_
+2	выражения	выражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+3	будущего	будущее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+6	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	добавлением	добавление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	_
+10	частиц	частица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+11	или	или	CCONJ	_	_	13	cc	_	_
+12	вспомогательных	вспомогательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	глаголов	глагол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 68
+# text = Особенностью мальтийской глагольной системы является то, что к романским по происхождению глаголам добавляются арабские суффиксы и приставки, напр. iddeċidejna — «мы решили», где (i)ddeċieda — глагол (ср. итал. decidere), -ejna — арабский элемент, образующий форму 1-го лица множественного числа прошедшего времени.
+1	Особенностью	особенность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+2	мальтийской	мальтийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	глагольной	глагольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+5	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	что	что	SCONJ	_	_	14	mark	_	_
+9	к	к	ADP	_	_	13	case	_	_
+10	романским	романский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	amod	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	происхождению	происхождениь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	nmod	_	_
+13	глаголам	глагол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	obl	_	_
+14	добавляются	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl	_	_
+15	арабские	арабский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	суффиксы	суффикс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	приставки	приставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	напр.	напр.	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
+21	iddeċidejna	iddeċidejna	X	_	Foreign=Yes	20	nsubj	_	_
+22	—	—	PUNCT	_	_	21	punct	_	_
+23	«мы	«ма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+24	решили»	решили»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	где	где	ADV	_	Degree=Pos	23	acl:relcl	_	_
+27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	i	i	X	_	Foreign=Yes	26	parataxis	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	ddeċieda	ddeċieda	X	_	Foreign=Yes	26	acl:relcl	_	_
+31	—	—	PUNCT	_	_	30	punct	_	_
+32	глагол	глагол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+33	(	(	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	ср.	сровнять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	32	parataxis	_	_
+35	итал	есть	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	35	punct	_	_
+37	decidere	decidere	X	_	Foreign=Yes	34	nsubj	_	SpaceAfter=No
+38	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	44	punct	_	_
+40	-	-	PUNCT	_	_	41	punct	_	SpaceAfter=No
+41	ejna	ejna	X	_	Foreign=Yes	44	orphan	_	_
+42	—	—	PUNCT	_	_	44	punct	_	_
+43	арабский	арабский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	_
+44	элемент	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	образующий	образовывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	44	acl	_	_
+47	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
+48	1-го	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	49	amod	_	_
+49	лица	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing	47	nmod	_	_
+50	множественного	множественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	51	amod	_	_
+51	числа	число	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	_
+52	прошедшего	прошедший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	51	nmod	_	SpaceAfter=No
+54	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 69
+# text = В литературном арабском и иврите такое происходит крайне редко, однако подобные формы встречаются в некоторых арабских диалектах.
+1	В	в	ADP	_	_	3	case	_	_
+2	литературном	литературный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	арабском	арабский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	иврите	иврить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	крайне	крайне	ADV	_	Degree=Pos	9	advmod	_	_
+9	редко	редко	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	однако	однако	ADV	_	Degree=Pos	14	advmod	_	_
+12	подобные	подобный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	_
+14	встречаются	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	_
+15	в	в	ADP	_	_	18	case	_	_
+16	некоторых	некоторый	DET	_	Case=Loc|Number=Plur	18	det	_	_
+17	арабских	арабский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	диалектах	диалект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 70
+# text = Лексика Наряду с исконным слоем семитской лексики большую роль играют романские (в основном сицилийско-итальянские, реже тосканско-итальянские) заимствования.
+1	Лексика	лексика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpacesAfter=\n
+2	Наряду	наряду	ADV	_	Degree=Pos	10	advmod	_	_
+3	с	с	ADP	_	_	5	case	_	_
+4	исконным	исконный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	слоем	слой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
+6	семитской	семитский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	лексики	лексика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	большую	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+10	играют	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	романские	романский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+12	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+13	в	в	ADP	_	_	14	case	_	_
+14	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	17	obl	_	_
+15	сицилийско	сицилийский	ADJ	_	Degree=Pos	17	compound	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	реже	редко	ADV	_	Degree=Cmp	22	obl	_	_
+20	тосканско	тосканский	ADJ	_	Degree=Pos	22	compound	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	conj	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	17	punct	_	_
+24	заимствования	заимствование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nsubj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = В базовой лексике преобладают слова арабского происхождения, а для обозначения новых идей и предметов, в качестве терминов, относящихся к государственной деятельности, юриспруденции, образованию, искусству, литературе широко используются итальянизмы.
+1	В	в	ADP	_	_	3	case	_	_
+2	базовой	базовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	лексике	лексика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	преобладают	преобладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+6	арабского	арабский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	34	punct	_	_
+9	а	а	CCONJ	_	_	34	cc	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	обозначения	обозначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	obl	_	_
+12	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	идей	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	предметов	предмет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	fixed	_	_
+19	терминов	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	относящихся	относиться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	acl	_	_
+22	к	к	ADP	_	_	24	case	_	_
+23	государственной	государственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	юриспруденции	юриспруденция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	24	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	образованию	образование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	искусству	искусство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	conj	_	_
+33	широко	широко	ADV	_	Degree=Pos	34	advmod	_	_
+34	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+35	итальянизмы	итальянизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	34	nsubj:pass	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 72
+# text = Такие слова, как raġel («человек»), mara («женщина»), tifel («ребёнок»), dar («дом»), xemx («солнце»), sajf («лето») по происхождению арабские, а skola («школа»), gvern («правительство»), repubblika («республика»), re («король»), natura («природа»), pulizija («полиция»), ċentru («центр»), teatru («театр»), differenza («разница») — романские.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	36	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	raġel	raġel	X	_	Foreign=Yes	2	acl	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	«человек»	«человек»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	mara	mara	X	_	Foreign=Yes	2	flat:foreign	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	«женщина»	«женщина»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	tifel	tifel	X	_	Foreign=Yes	2	conj	_	_
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	«ребёнок»	«ребёнок»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	parataxis	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	dar	dar	X	_	Foreign=Yes	2	conj	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	«дом»	«дом»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	parataxis	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	xemx	xemx	X	_	Foreign=Yes	2	conj	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	«солнце»	«солнце»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	parataxis	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	sajf	sajf	X	_	Foreign=Yes	2	appos	_	_
+31	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	«лето»	«лето»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	appos	_	SpaceAfter=No
+33	)	)	PUNCT	_	_	32	punct	_	_
+34	по	по	ADP	_	_	35	case	_	_
+35	происхождению	происхождение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	36	obl	_	_
+36	арабские	арабский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	а	а	CCONJ	_	_	39	cc	_	_
+39	skola	skola	X	_	Foreign=Yes	36	conj	_	_
+40	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
+41	«школа»	«школа»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	parataxis	_	SpaceAfter=No
+42	)	)	PUNCT	_	_	41	punct	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	gvern	gvern	X	_	Foreign=Yes	36	conj	_	_
+45	(	(	PUNCT	_	_	46	punct	_	SpaceAfter=No
+46	«правительство»	«правительство»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	44	parataxis	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	46	punct	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	49	punct	_	_
+49	repubblika	repubblika	X	_	Foreign=Yes	36	conj	_	_
+50	(	(	PUNCT	_	_	51	punct	_	SpaceAfter=No
+51	«республика»	«республика»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	parataxis	_	SpaceAfter=No
+52	)	)	PUNCT	_	_	51	punct	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	re	re	X	_	Foreign=Yes	36	conj	_	_
+55	(	(	PUNCT	_	_	56	punct	_	SpaceAfter=No
+56	«король»	«король»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	parataxis	_	SpaceAfter=No
+57	)	)	PUNCT	_	_	56	punct	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	59	punct	_	_
+59	natura	natura	X	_	Foreign=Yes	36	conj	_	_
+60	(	(	PUNCT	_	_	61	punct	_	SpaceAfter=No
+61	«природа»	«природа»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	59	parataxis	_	SpaceAfter=No
+62	)	)	PUNCT	_	_	61	punct	_	SpaceAfter=No
+63	,	,	PUNCT	_	_	64	punct	_	_
+64	pulizija	pulizija	X	_	Foreign=Yes	36	conj	_	_
+65	(	(	PUNCT	_	_	66	punct	_	SpaceAfter=No
+66	«полиция»	«полиция»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	64	parataxis	_	SpaceAfter=No
+67	)	)	PUNCT	_	_	66	punct	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	69	punct	_	_
+69	ċentru	ċentru	X	_	Foreign=Yes	36	conj	_	_
+70	(	(	PUNCT	_	_	71	punct	_	SpaceAfter=No
+71	«центр»	«центр»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	69	parataxis	_	SpaceAfter=No
+72	)	)	PUNCT	_	_	71	punct	_	SpaceAfter=No
+73	,	,	PUNCT	_	_	74	punct	_	_
+74	teatru	teatru	X	_	Foreign=Yes	36	conj	_	_
+75	(	(	PUNCT	_	_	76	punct	_	SpaceAfter=No
+76	«театр»	«театр»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	74	parataxis	_	SpaceAfter=No
+77	)	)	PUNCT	_	_	76	punct	_	SpaceAfter=No
+78	,	,	PUNCT	_	_	79	punct	_	_
+79	differenza	differenza	X	_	Foreign=Yes	36	conj	_	_
+80	(	(	PUNCT	_	_	81	punct	_	SpaceAfter=No
+81	«разница»	«разница»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	79	parataxis	_	SpaceAfter=No
+82	)	)	PUNCT	_	_	81	punct	_	_
+83	—	—	PUNCT	_	_	79	punct	_	_
+84	романские	романский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	79	amod	_	SpaceAfter=No
+85	.	.	PUNCT	_	_	36	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = Итальянские по происхождению слова обычно отражают сицилийское произношение, в то время как литературный итальянский язык происходит из тосканского диалекта.
+1	Итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	nsubj	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	происхождению	происхождение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	obl	_	_
+4	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	обычно	обычно	ADV	_	Degree=Pos	6	advmod	_	_
+6	отражают	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	сицилийское	сицилийский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	произношение	произношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	_
+10	в	в	ADP	_	_	17	cc	_	_
+11	то	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	fixed	_	_
+12	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	fixed	_	_
+13	как	как	SCONJ	_	_	10	fixed	_	_
+14	литературный	литературный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	итальянский	итальянский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+17	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+18	из	из	ADP	_	_	20	case	_	_
+19	тосканского	тосканский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	диалекта	диалект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 74
+# text = Так, конечному -o в тосканском диалекте итальянского соответствует -u в мальтийском языке, как и в сицилийском диалекте, например, teatru, а не teatro.
+1	Так	так	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	конечному	конечный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	-o	-o	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	тосканском	тосканский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	диалекте	диалект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+8	итальянского	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+9	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	-u	-u	X	_	Foreign=Yes	9	flat:foreign	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	как	как	SCONJ	_	_	19	mark	_	_
+16	и	и	PART	_	_	19	advmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	сицилийском	сицилийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	диалекте	диалект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	acl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	например	например	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	teatru	teatru	X	_	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	а	а	CCONJ	_	_	27	cc	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	teatro	teatro	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 75
+# text = Также тосканскому -e соответствует -i, напр. arti — «искусство», fidi — «вера», lokali — «местный житель» (ср. литературные итальянские arte, fede, locale).
+1	Также	также	ADV	_	Degree=Pos	2	obl	_	_
+2	тосканскому	тосканский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+3	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	e	e	X	_	Foreign=Yes	5	nsubj	_	_
+5	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	i	i	X	_	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	напр.	напр.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+10	arti	arti	X	_	Foreign=Yes	9	flat:foreign	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	«искусство»	«искусство»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	fidi	fidi	X	_	Foreign=Yes	12	flat:foreign	_	_
+15	—	—	PUNCT	_	_	16	punct	_	_
+16	«вера»	«вера»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	lokali	lokali	X	_	Foreign=Yes	16	flat:foreign	_	_
+19	—	—	PUNCT	_	_	21	punct	_	_
+20	«местный	«местный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	житель»	житель»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	_
+22	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	ср.	сровнять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	21	parataxis	_	_
+24	литературные	литературный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	obj	_	_
+25	итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+26	arte	arte	X	_	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	fede	fede	X	_	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	locale	locale	X	_	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 76
+# text = Как и в некоторых романских языках, звук «ш» передается буквой x, в отличие от итальянского, где для этой цели используется диграф sc: ambaxxata — «посольство» (ср. итал. ambasciata), xena — «сцена» (ср. итал. scena).
+1	Как	как	SCONJ	_	_	6	mark	_	_
+2	и	и	PART	_	_	6	advmod	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	некоторых	некоторый	DET	_	Case=Loc|Number=Plur	6	det	_	_
+5	романских	романский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	языках	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	звук	звук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	«ш»	«ш»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	передается	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	буквой	буква	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	obl	_	_
+12	x	x	PUNCT	_	_	17	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	в	в	ADP	_	_	17	case	_	_
+15	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	fixed	_	_
+16	от	от	ADP	_	_	14	fixed	_	_
+17	итальянского	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	где	где	ADV	_	Degree=Pos	23	advmod	_	_
+20	для	для	ADP	_	_	22	case	_	_
+21	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	22	det	_	_
+22	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	obl	_	_
+23	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	acl:relcl	_	_
+24	диграф	диграф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	_	_
+25	sc	sc	X	_	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No
+26	:	:	PUNCT	_	_	24	punct	_	_
+27	ambaxxata	ambaxxata	X	_	Foreign=Yes	24	parataxis	_	_
+28	—	—	PUNCT	_	_	29	punct	_	_
+29	«посольство»	«посольство»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	appos	_	_
+30	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+31	ср.	сровнять	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+32	итал	есть	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	_
+34	ambasciata	ambasciata	X	_	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No
+35	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	xena	xena	X	_	Foreign=Yes	32	flat:foreign	_	_
+38	—	—	PUNCT	_	_	37	punct	_	_
+39	«сцена»	«сцена»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	appos	_	_
+40	(	(	PUNCT	_	_	44	punct	_	SpaceAfter=No
+41	ср.	сровнять	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+42	итал	есть	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	42	punct	_	_
+44	scena	scena	X	_	Foreign=Yes	39	parataxis	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	44	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 77
+# text = Обычным делом в современном мальтийском языке является заимствование слов из английского, например, strajk — «забастовка» (от англ. strike), televixin — «телевидение» (от англ. television), tim — «команда» (от англ. team).
+1	Обычным	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	современном	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+5	мальтийском	мальтийский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	заимствование	заимствование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	nsubj	_	_
+9	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	из	из	ADP	_	_	11	case	_	_
+11	английского	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	например	например	ADV	_	Degree=Pos	15	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	strajk	strajk	X	_	Foreign=Yes	11	flat:foreign	_	_
+16	—	—	PUNCT	_	_	17	punct	_	_
+17	«забастовка»	«забастовка»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	от	от	ADP	_	_	20	case	_	_
+20	англ	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+22	strike	strike	X	_	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	televixin	televixiн-лат	X	_	Foreign=Yes	20	flat:foreign	_	_
+26	—	—	PUNCT	_	_	27	punct	_	_
+27	«телевидение»	«телевидение»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	appos	_	_
+28	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+29	от	от	ADP	_	_	30	case	_	_
+30	англ.	английский	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	27	parataxis	_	_
+31	television	televisioн-лат	X	_	Foreign=Yes	30	appos	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	tim	tim	X	_	Foreign=Yes	27	flat:foreign	_	_
+35	—	—	PUNCT	_	_	36	punct	_	_
+36	«команда»	«команда»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	conj	_	_
+37	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+38	от	от	ADP	_	_	39	case	_	_
+39	англ	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	parataxis	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	39	punct	_	_
+41	team	team	X	_	Foreign=Yes	39	nsubj	_	SpaceAfter=No
+42	)	)	PUNCT	_	_	39	punct	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 78
+# text = Некоторые слова сохраняют английское написание, например, union — «союз», «объединение», leave — «отпуск», bonus — «премия».
+1	Некоторые	некоторый	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	сохраняют	сохранять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	английское	английский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	написание	написание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	например	например	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	union	union	X	_	Foreign=Yes	3	parataxis	_	_
+10	—	—	PUNCT	_	_	3	punct	_	_
+11	«союз»	«союз»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	«объединение»	«объединение»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	leave	leave	X	_	Foreign=Yes	11	conj	_	_
+16	—	—	PUNCT	_	_	17	punct	_	_
+17	«отпуск»	«отпуск»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	bonus	bonus	X	_	Foreign=Yes	17	flat:foreign	_	_
+20	—	—	PUNCT	_	_	21	punct	_	_
+21	«премия»	«премия»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
