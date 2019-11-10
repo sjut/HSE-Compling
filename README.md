@@ -15,7 +15,7 @@
 
 |Дата|Лекция|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|
-|06.11|[Лекция 1. Введение. Ключевые слова]()|[UD-pipe. RAKE. TextRank](https://github.com/sjut/HSE-Compling/tree/master/seminars/1_Keywords.ipynb)|to be announced|
+|06.11|[Лекция 1. Введение. Ключевые слова]()| [UD-pipe. RAKE. TextRank](https://github.com/sjut/HSE-Compling/tree/master/seminars/1_Keywords.ipynb) | [HW1](https://github.com/sjut/HSE-Compling/tree/master/hw/hw1.md) |
 |08.11|Лекция 2. Коллокации|Семинар 2. Коллокационные метрики в NLTK|to be announced||
 ||[Лекция 3. Разрешение семантической неоднозначности (WSD). Вычисление семантического расстояния]()||||
 
