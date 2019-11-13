@@ -14,7 +14,7 @@
 итоговый тест (экзамен) – 25%<br>
 
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |06.11|[Лекция 1. Введение. Ключевые слова](https://github.com/sjut/HSE-Compling/blob/master/Lectures/CL2_1L_KW.ppt)|| [UD-pipe. RAKE. TextRank](https://github.com/sjut/HSE-Compling/tree/master/seminars/1_Keywords.ipynb) | [HW1](https://github.com/sjut/HSE-Compling/tree/master/hw/hw1.md) |
 |08.11, 13.11|Лекция 2. [Коллокации](https://github.com/sjut/HSE-Compling/blob/master/Lectures/CL2_L_Collocations.pptx)|15.11|Семинар 2. Коллокационные метрики в NLTK|to be announced||
 |15.11|[Лекция 3. Разрешение семантической неоднозначности (WSD). Вычисление семантического расстояния]()||||
