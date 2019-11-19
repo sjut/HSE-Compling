@@ -15,7 +15,6 @@
 
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|-|
-|06.11|[Лекция 1. Введение. Ключевые слова](https://github.com/sjut/HSE-Compling/blob/master/Lectures/CL2_1L_KW.ppt)|| [UD-pipe. RAKE. TextRank](https://github.com/sjut/HSE-Compling/tree/master/seminars/1_Keywords.ipynb) | [HW1](https://github.com/sjut/HSE-Compling/tree/master/hw/hw1.md) |
+|06.11|[Лекция 1. Введение. Ключевые слова](https://github.com/sjut/HSE-Compling/blob/master/Lectures/CL2_1L_KW.ppt)|| [UD-pipe. RAKE. TextRank](https://github.com/sjut/HSE-Compling/tree/master/seminars/1_Keywords.ipynb) | [HW1](https://github.com/sjut/HSE-Compling/tree/master/hw/hw1.md) |18.11|
 |08.11, 13.11|Лекция 2. [Коллокации](https://github.com/sjut/HSE-Compling/blob/master/Lectures/CL2_L_Collocations.pptx)|15.11|[Коллокационные метрики в NLTK](https://github.com/sjut/HSE-Compling/tree/master/seminars/2_Collocations.ipynb)| [HW2](https://github.com/sjut/HSE-Compling/tree/master/hw/hw2.md) | 26.11 |
-|15.11|[Лекция 3. Разрешение семантической неоднозначности (WSD). Вычисление семантического расстояния]()||||
-
+|15.11|[Лекция 3. Разрешение семантической неоднозначности (WSD). Вычисление семантического расстояния]()| 21.11 | ELMo для русского языка ||
