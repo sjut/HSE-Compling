@@ -20,4 +20,4 @@
 |15.11|[Лекция 3. Разрешение семантической неоднозначности (WSD). Вычисление семантического расстояния]()| 21.11 | [Adagram и ELMo для русского языка](https://github.com/sjut/HSE-Compling/tree/master/seminars/3_WSD.ipynb) | [HW3](https://github.com/sjut/HSE-Compling/tree/master/hw/hw3.md) | 9.12 |
 |21.11|[Лекция 4. Разрешение анафоры и кореференции]()| 28.11 | [Признаки для классификации кореферентности](https://github.com/sjut/HSE-Compling/tree/master/seminars/4_Coreference.ipynb) | = | = |
 |28.11|Лекция 5. NER | 29.11 | Томита-парсер | - | - |
-|5.12 | Лекция 6. Машинный перевод | 5/6.12 | Машинный перевод (Moses и NMT) | ридинг на выбор ([1](https://www.aclweb.org/anthology/J03-1002.pdf) и [2](https://arxiv.org/pdf/1409.0473.pdf)) | |
+|5.12 | [Лекция 6. Машинный перевод](https://github.com/sjut/HSE-Compling/blob/master/Lectures/MT.pptx) | 5/6.12 | Машинный перевод ([Moses](http://www.statmt.org/moses/?n=Moses.Tutorial) и NMT) | ридинг на выбор ([1](https://www.aclweb.org/anthology/J03-1002.pdf) и [2](https://arxiv.org/pdf/1409.0473.pdf)) | |
