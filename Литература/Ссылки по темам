@@ -6,3 +6,5 @@
 5. Машинный перевод
 6. Извлечение именованных сущностей
 7. Извлечени тонального лексикона
+1) Ch. 21. Lexicons for Sentiment, Affect, and Connotation // Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft). https://web.stanford.edu/~jurafsky/slp3/
+Очень полезный сайт, где собрана достаточно полная информация по анализу тональности и извлечению мнений: <br>https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
