@@ -1,0 +1,21 @@
+1) Tang, D., Wei, F., Qin, B., Zhou, M. and Liu, T., 2014, August. Building large-scale twitter-specific sentiment lexicon: A representation learning approach. In Proceedings of coling 2014, the 25th international conference on computational linguistics: Technical papers (pp. 172-182). https://www.aclweb.org/anthology/C14-1018.pdf
+
+2) Jovanoski, D., Pachovski, V. and Nakov, P., 2016, December. On the impact of seed words on sentiment polarity lexicon induction. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers (pp. 1557-1567). https://www.aclweb.org/anthology/C16-1147.pdf
+
+3)Koltsova O. Yu., Alexeeva S. V., Kolcov S. N. An Opinion Word Lexicon and a Training Dataset for Russian Sentiment Analysis of Social Media // Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference «Dialogue». – Vol. 15. – M.: RSUH, 2016. – P. 277-287. http://www.dialog-21.ru/media/3388/dubatovkaaetal.pdf
+
+4) Hamilton, W.L., Clark, K., Leskovec, J. and Jurafsky, D., 2016, November. Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. https://arxiv.org/pdf/1606.02820v2.pdf
+
+5) Teng, Z., Vo, D.T. and Zhang, Y., 2016, November. Context-sensitive lexicon features for neural sentiment analysis. In Proceedings of the 2016 conference on empirical methods in natural language processing (pp. 1629-1638). https://www.aclweb.org/anthology/D16-1169.pdf
+
+6) Luo, H., Li, T., Liu, B. and Zhang, J., 2019. DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. arXiv preprint arXiv:1906.01794. https://arxiv.org/pdf/1906.01794.pdf
+
+7) Wang, S., Mazumder, S., Liu, B., Zhou, M. and Chang, Y., 2018, July. Target-sensitive memory networks for aspect sentiment classification. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 957-967). https://www.aclweb.org/anthology/P18-1088.pdf
+
+8) Wang, Y., Zhang, Y. and Liu, B., 2017, September. Sentiment lexicon expansion based on neural PU Learning, double dictionary lookup, and polarity association. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 553-563)./ https://www.cs.uic.edu/~liub/publications/emnlp2017.pdf
+
+9) Fang, Y., Tan, H. and Zhang, J., 2018. Multi-strategy sentiment analysis of consumer reviews based on semantic fuzziness. IEEE Access, 6, pp.20625-20631. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8336869
+
+10) Petrucci G., Dragoni M. (2018) The IRMUDOSA System at ESWC-2018 Challenge on Semantic Sentiment Analysis. In: Buscaldi D., Gangemi A., Reforgiato Recupero D. (eds) Semantic Web Challenges. SemWebEval 2018. Communications in Computer and Information Science, vol 927. Springer, Cham. https://link.springer.com/chapter/10.1007/978-3-030-00072-1_14
+
+11) Kotelnikov, E., Peskisheva, T., Kotelnikova, A. and Razova, E., 2018, October. A Comparative Study of Publicly Available Russian Sentiment Lexicons. In Conference on Artificial Intelligence and Natural Language (pp. 139-151). Springer, Cham. https://link.springer.com/content/pdf/10.1007%2F978-3-030-01204-5_14.pdf
