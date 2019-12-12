@@ -30,4 +30,4 @@
 |21.11|[Лекция 4. Разрешение анафоры и кореференции]()| 28.11 | [Признаки для классификации кореферентности](https://github.com/sjut/HSE-Compling/tree/master/seminars/4_Coreference.ipynb) | = | = |
 |28.11|Лекция 5. NER | 29.11 | Томита-парсер | - | - |
 |5.12 | [Лекция 6. Машинный перевод](https://github.com/sjut/HSE-Compling/blob/master/Lectures/MT.pptx) | 5/6.12 | Машинный перевод ([Moses](http://www.statmt.org/moses/?n=Moses.Tutorial) и [NMT](https://github.com/sjut/HSE-Compling/tree/master/seminars/6_NMT.ipynb)) | ридинг на выбор ([1](https://www.aclweb.org/anthology/J03-1002.pdf) и [2](https://arxiv.org/pdf/1409.0473.pdf)) | |
-|6.12 | Лекция 7. Анализ тональности | | | проект | 23.12 |
+|6.12 | Лекция 7. Анализ тональности | 13.12 | [Визуализация оценки тональности](https://github.com/sjut/HSE-Compling/tree/master/seminars/7_Sentiment.ipynb) | проект | 23.12 |
