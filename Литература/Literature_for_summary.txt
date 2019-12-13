@@ -2,7 +2,7 @@
 
 2) Jovanoski, D., Pachovski, V. and Nakov, P., 2016, December. On the impact of seed words on sentiment polarity lexicon induction. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers (pp. 1557-1567). https://www.aclweb.org/anthology/C16-1147.pdf
 
-3)Koltsova O. Yu., Alexeeva S. V., Kolcov S. N. An Opinion Word Lexicon and a Training Dataset for Russian Sentiment Analysis of Social Media // Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference «Dialogue». – Vol. 15. – M.: RSUH, 2016. – P. 277-287. http://www.dialog-21.ru/media/3388/dubatovkaaetal.pdf
+3) Dubatovka A., Kurochkin Y., Mikhailova E. Automatic generation of the domain-specific sentiment Russian dictionaries //Automatic Generation of the Domain-Specific Sentiment Russian Dictionaries. – 2016. – С. 146-158. http://www.dialog-21.ru/media/3388/dubatovkaaetal.pdf
 
 4) Hamilton, W.L., Clark, K., Leskovec, J. and Jurafsky, D., 2016, November. Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. https://arxiv.org/pdf/1606.02820v2.pdf
 
