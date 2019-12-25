@@ -1,0 +1,99 @@
+# newdoc id = senti_testset/26284.txt
+# newpar
+# sent_id = 1
+# text = Привет всем!Мы из Москвы,посетили на выходные Питер и Ваш замечательный ресторан!Понравилось все:и необычно выполненный интерьер,и хорошее обслуживание официантки с рекомендацией блюд,прекрасный вид из окна,и самое главное очень хорошая кухня!!!
+1	Привет	привет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	всем!	всем!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+3	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	7	nsubj	_	_
+4	из	из	ADP	_	_	5	case	_	_
+5	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	посетили	посетить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	выходные	выходной	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	_
+10	Питер	Питер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	appos	_	_
+11	и	и	CCONJ	_	_	16	cc	_	_
+12	Ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing	14	det	_	_
+13	замечательный	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+15	!	!	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	Понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	_
+17	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	advmod	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	и	и	CCONJ	_	_	22	cc	_	_
+20	необычно	необычно	ADV	_	Degree=Pos	21	advmod	_	_
+21	выполненный	выполнить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	_
+22	интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	parataxis	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
+24	и	и	CCONJ	_	_	26	cc	_	_
+25	хорошее	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	conj	_	_
+27	официантки	официантка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	с	с	ADP	_	_	29	case	_	_
+29	рекомендацией	рекомендация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	nmod	_	_
+30	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	SpaceAfter=No
+32	прекрасный	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	_
+34	из	из	ADP	_	_	35	case	_	_
+35	окна	окно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
+36	,и	,	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+37	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	главное	главный	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	41	parataxis	_	_
+39	очень	очень	ADV	_	Degree=Pos	40	obl	_	_
+40	хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	кухня	кухня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+42	!	!	PUNCT	_	_	41	punct	_	SpaceAfter=No
+43	!	!	PUNCT	_	_	41	punct	_	SpaceAfter=No
+44	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Цена полностью соответствует качеству,все очень вкусно,что на мой взгляд редкость для Питера,где мало действительно хороших ресторанов.
+1	Цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	полностью	полностью	ADV	_	Degree=Pos	3	advmod	_	_
+3	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	качеству	качество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	SpaceAfter=No
+6	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	obl	_	_
+8	вкусно	вкусный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+10	что	что	SCONJ	_	_	13	mark	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	мой	мой	DET	_	Case=Acc|Gender=Masc|Number=Sing	13	det	_	_
+13	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	parataxis	_	_
+14	редкость	редкость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	Питера	Питер	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	SpaceAfter=No
+18	где	где	ADV	_	Degree=Pos	22	advmod	_	_
+19	мало	мало	ADV	_	Degree=Pos	22	nummod:gov	_	_
+20	действительно	действительно	ADV	_	Degree=Pos	21	obl	_	_
+21	хороших	хороший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	ресторанов	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	acl:relcl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = "BELLINI" один из них!В следующий раз когда будем в Питере обязательно будем у Вас,спасибо!
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	BELLINI	Bellini	NUM	_	_	0	root	_	SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	_
+4	один	один	NUM	_	Case=Nom|Gender=Masc	20	nsubj	_	_
+5	из	из	ADP	_	_	6	case	_	_
+6	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	20	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	В	в	ADP	_	_	10	case	_	_
+9	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	_
+11	когда	когда	SCONJ	_	_	20	mark	_	_
+12	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	Питере	Питер	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	_
+15	обязательно	обязательно	ADV	_	Degree=Pos	20	obl	_	_
+16	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+17	у	у	ADP	_	_	18	case	_	_
+18	Вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	20	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	SpaceAfter=No
+21	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

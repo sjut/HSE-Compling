@@ -1,0 +1,132 @@
+# newdoc id = senti_testset/36926.txt
+# newpar
+# sent_id = 1
+# text = Добрый день!
+1	Добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Первый раз пишу отзыв о ресторане, настолько меня впечатлило данное место.
+1	Первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+3	пишу	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	отзыв	отзыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	о	о	ADP	_	_	6	case	_	_
+6	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	настолько	настолько	ADV	_	Degree=Pos	10	advmod	_	_
+9	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	10	obj	_	_
+10	впечатлило	впечатлять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Прекрасная кухня, уютный интерьер, доброжелательные официанты, очень дружественная атмосфера!
+1	Прекрасная	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	кухня	кухня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	уютный	уютный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	доброжелательные	доброжелательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	официанты	официант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	очень	очень	ADV	_	Degree=Pos	11	obl	_	_
+11	дружественная	дружественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	атмосфера	атмосфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+13	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = Невозможно уйти оттуда с плохим настроением и голодным, порции очень большие!))
+1	Невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	оттуда	оттуда	ADV	_	Degree=Pos	2	advmod	_	_
+4	с	с	ADP	_	_	6	case	_	_
+5	плохим	плохой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	настроением	настроение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+7	и	и	CCONJ	_	_	10	cc	_	_
+8	голодным	голодный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	порции	порция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	conj	_	_
+11	очень	очень	ADV	_	Degree=Pos	12	obl	_	_
+12	большие	большой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	obj	_	SpaceAfter=No
+13	!	!	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	1	punct	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Особенно порадовал ценник...качественная еда за небольшие деньги.
+1	Особенно	особенно	ADV	_	Degree=Pos	2	advmod	_	_
+2	порадовал	порадовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ценник.	ценник	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	качественная	качественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+8	за	за	ADP	_	_	10	case	_	_
+9	небольшие	небольшой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Ходили с молодым человеком, заказали омлет по-баварски 260р., салат с теплой куриной печенью 260р., пиво 0,5л. 220р. и бокал белого вина 250р., все вместе обошлось нам всего лишь в 990р.
+1	Ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	с	с	ADP	_	_	4	case	_	_
+3	молодым	молодой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	заказали	заказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	омлет	омлет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	по-баварски	по-баварски	ADV	_	Degree=Pos	9	obl	_	_
+9	260р	260р	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	салат	салат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+13	с	с	ADP	_	_	15	case	_	_
+14	теплой	теплый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	куриной	курина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	nmod	_	_
+16	печенью	печень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	nmod	_	_
+17	260р	260р	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	appos	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	пиво	пиво	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
+21	0,5л.	0,5лийский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+22	220р	220р	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	flat:name	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	17	punct	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	бокал	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	conj	_	_
+26	белого	белый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	вина	вина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+28	250р	250р	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	все	все	DET	_	Case=Nom|Number=Plur	33	nsubj	_	_
+32	вместе	вместе	ADV	_	Degree=Pos	33	advmod	_	_
+33	обошлось	обойтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	_
+34	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	33	iobj	_	_
+35	всего	всего	PART	_	_	36	advmod	_	_
+36	лишь	лишь	PART	_	_	38	advmod	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	990р	990р	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Вообщем впечатление прекрасное, будем заходить еще!!!)))))
+1	Вообщем	Вообть	VERB	_	Aspect=Imp|Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
+2	впечатление	впечатление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+3	прекрасное	прекрасный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	заходить	заходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+7	еще	еще	ADV	_	Degree=Pos	6	obl	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	6	punct	_	SpacesAfter=\n
+

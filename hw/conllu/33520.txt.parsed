@@ -1,0 +1,90 @@
+# newdoc id = senti_testset/33520.txt
+# newpar
+# sent_id = 1
+# text = В пятницу отмечали свадьбу в этом ресторане.
+1	В	в	ADP	_	_	2	case	_	_
+2	пятницу	пятница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+3	отмечали	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	свадьбу	свадьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	7	det	_	_
+7	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = Т. к. гостей было немного, то просто заказали столик.
+1	Т.	то	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	к.	коло	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	1	flat:name	_	_
+3	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	немного	немного	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	то	то	SCONJ	_	_	9	mark	_	_
+8	просто	просто	PART	_	_	9	advmod	_	_
+9	заказали	заказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+10	столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 3
+# text = Отлично провели время.
+1	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	obl	_	_
+2	провели	провести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = Хорошая кухня и обслуживание, приятная атмосфера.
+1	Хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	кухня	кухень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	приятная	приятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	атмосфера	атмосфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 5
+# text = Очень порадовал подарок от шеф-повара для молодых.
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	порадовал	порадовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	подарок	подарок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	от	от	ADP	_	_	5	case	_	_
+5	шеф-повара	шеф-повар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	молодых	молодой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Спасибо вам большое!
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	1	iobj	_	_
+3	большое	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Всем советую сходить туда, цены приемлемые.
+1	Всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur	2	iobj	_	_
+2	советую	советовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сходить	сойти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	туда	туда	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	цены	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+7	приемлемые	приемлть	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 8
+# text = А вечером в пятницу и в субботу танцевальное шоу и живая музыка.
+1	А	а	CCONJ	_	_	2	cc	_	_
+2	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	пятницу	пятница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	субботу	суббота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
+8	танцевальное	танцевальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	шоу	шоу	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	живая	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

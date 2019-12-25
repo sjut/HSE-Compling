@@ -1,0 +1,89 @@
+# newdoc id = reviews_train/01008
+# newpar
+# sent_id = 1
+# text = Харбин upalump 08.08.2012 16:16 0
+1	Харбин	Харбин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesBefore=\n\n|SpacesAfter=\n
+2	upalump	upalump	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
+3	08.08.2012	08.08.2012	PROPN	_	_	1	nummod	_	_
+4	16	16	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	16	16	NUM	_	_	7	nummod	_	SpacesAfter=\n
+7	0	0	NUM	_	_	3	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = 7 6 7
+1	7	7	NUM	_	_	0	root	_	SpacesAfter=\n
+2	6	6	NUM	_	_	1	nummod	_	SpacesAfter=\n
+3	7	7	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = Конкретно этот ресторан опять начал вытягивать уровень..
+1	Конкретно	конкретно	ADV	_	Degree=Pos	5	advmod	_	_
+2	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
+3	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	опять	опять	ADV	_	Degree=Pos	5	advmod	_	_
+5	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	вытягивать	вытягивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	уровень	уровень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = Не ходили в Харбин наверное с год или больше по причине уменьшившихся порций и ужасно испортившейся кухни..
+1	Не	не	PART	_	_	2	advmod	_	_
+2	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Харбин	Харбин	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+5	наверное	наверное	ADV	_	Degree=Pos	2	advmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+8	или	или	CCONJ	_	_	9	cc	_	_
+9	больше	больше	ADV	_	Degree=Cmp	5	conj	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+12	уменьшившихся	уменьшиться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	amod	_	_
+13	порций	порция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	ужасно	ужасно	ADV	_	Degree=Pos	16	advmod	_	_
+16	испортившейся	испортиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	17	acl	_	_
+17	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 5
+# text = Но вот случайно занесло пару месяцев назад - реабилитировались вроде бы..
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	вот	вот	PART	_	_	3	advmod	_	_
+3	случайно	случайно	ADV	_	Degree=Pos	4	advmod	_	_
+4	занесло	занести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	назад	назад	ADV	_	Degree=Pos	6	advmod	_	_
+8	-	-	PUNCT	_	_	9	punct	_	_
+9	реабилитировались	реабилитировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	5	parataxis	_	_
+10	вроде	вроде	ADV	_	Degree=Pos	12	parataxis	_	_
+11	бы	бы	PART	_	_	10	fixed	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6
+# text = Правда, повторюсь, говорю именно об этом адресе, в другие пока боюсь ходить)
+1	Правда	правда	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	повторюсь	повториться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+6	именно	именно	PART	_	_	9	advmod	_	_
+7	об	о	ADP	_	_	9	case	_	_
+8	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	9	det	_	_
+9	адресе	адрес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	другие	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	obl	_	_
+13	пока	пока	ADV	_	Degree=Pos	14	advmod	_	_
+14	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+15	ходить	ходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+

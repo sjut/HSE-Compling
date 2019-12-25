@@ -1,0 +1,100 @@
+# newdoc id = senti_testset/33693.txt
+# newpar
+# sent_id = 1
+# text = Приятный итальянский ресторанчик без претензий.
+1	Приятный	приятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	итальянский	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	ресторанчик	ресторанчик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	без	без	ADP	_	_	5	case	_	_
+5	претензий	претензия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2
+# text = Из минусов по обслуживанию только то, что долго ждали официанта с меню.
+1	Из	из	ADP	_	_	2	case	_	_
+2	минусов	минус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	обслуживанию	обслуживание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+5	только	только	PART	_	_	6	advmod	_	_
+6	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	что	что	SCONJ	_	_	10	mark	_	_
+9	долго	долго	ADV	_	Degree=Pos	10	advmod	_	_
+10	ждали	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	_
+11	официанта	официант	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	меню	меню	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+# text = Интерьер простой как внутри, так и снаружи.
+1	Интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	простой	простой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	внутри	внутри	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	так	так	ADV	_	Degree=Pos	8	cc	_	_
+7	и	и	PART	_	_	6	fixed	_	_
+8	снаружи	снаружи	ADV	_	Degree=Pos	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = Из блюд заказывали томатный суп, ризотто с белыми грибами, пасту с креветками и Цезарь.
+1	Из	из	ADP	_	_	2	case	_	_
+2	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+3	заказывали	заказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	томатный	томатный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	суп	суп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ризотто	ризотто	PRON	_	Case=Nom	5	conj	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	белыми	белый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	_
+10	грибами	гриб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	пасту	паста	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	креветками	креветка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	Цезарь	Цезарь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Порции достаточно большие; все было вкусно, а вот Цезарь с курицей очень расстроил, соус был невкусный с рыбным запахом.
+1	Порции	порция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+2	достаточно	достаточно	ADV	_	Degree=Pos	3	obl	_	_
+3	большие	большой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	_	_	3	punct	_	_
+5	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	вкусно	вкусный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	а	а	CCONJ	_	_	15	cc	_	_
+10	вот	вот	PART	_	_	11	advmod	_	_
+11	Цезарь	Цезарь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	курицей	курица	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	_
+14	очень	очень	ADV	_	Degree=Pos	15	advmod	_	_
+15	расстроил	расстроить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	соус	соус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+19	невкусный	невкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+20	с	с	ADP	_	_	22	case	_	_
+21	рыбным	рыбный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	запахом	запах	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Хорошее место для вкусной трапезы итальянской кухни по умеренной цене.
+1	Хорошее	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	для	для	ADP	_	_	5	case	_	_
+4	вкусной	вкусный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	трапезы	трапеза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	итальянской	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	по	по	ADP	_	_	10	case	_	_
+9	умеренной	умеренный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	цене	цена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

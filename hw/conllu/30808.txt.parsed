@@ -1,0 +1,98 @@
+# newdoc id = senti_testset/30808.txt
+# newpar
+# sent_id = 1
+# text = Отмечали в этом ресторане день рождение на первом этаже в субботу вечером.
+1	Отмечали	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+5	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
+6	рождение	рождение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	субботу	суббота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+12	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Хочу выразить большую благодарность прежде всего руководству ресторана, обслуживающему персоналу и конечно же тем сотрудникам, которые готовят посетителям заведения столь вкусные блюда.
+1	Хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	выразить	выразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+3	большую	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	благодарность	благодарность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	прежде	прежде	ADP	_	_	7	advmod	_	_
+6	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	fixed	_	_
+7	руководству	руководство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	iobj	_	_
+8	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	обслуживающему	обслуживать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+11	персоналу	персонал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+12	и	и	CCONJ	_	_	16	cc	_	_
+13	конечно	конечно	ADV	_	Degree=Pos	16	obl	_	_
+14	же	же	PART	_	_	13	advmod	_	_
+15	тем	тот	DET	_	Case=Dat|Number=Plur	16	det	_	_
+16	сотрудникам	сотрудник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	которые	который	PRON	_	Case=Nom	19	nsubj	_	_
+19	готовят	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
+20	посетителям	посетитель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	19	iobj	_	_
+21	заведения	заведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	столь	столь	ADV	_	Degree=Pos	23	obl	_	_
+23	вкусные	вкусный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+24	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Понравилось абсолютно все.
+1	Понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	абсолютно	абсолютно	ADV	_	Degree=Pos	3	obl	_	_
+3	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Конечно же впечатляет интерьер: уютно и красиво.
+1	Конечно	конечно	ADV	_	Degree=Pos	3	advmod	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	впечатляет	впечатлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	3	punct	_	_
+6	уютно	уютный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	parataxis	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	красиво	красивый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Стол был шикарный.
+1	Стол	стол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	шикарный	шикарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Нас обслуживал официант Бахрам, спасибо ему.
+1	Нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	2	obj	_	_
+2	обслуживал	обслуживать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	официант	официант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Бахрам	Бахрам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	_
+7	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	6	iobj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Хочу отметить, что для ресторана такого уровня цены не высокие.
+1	Хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+7	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	8	det	_	_
+8	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	цены	цена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	высокие	высокий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

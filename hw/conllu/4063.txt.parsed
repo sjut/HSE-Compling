@@ -1,0 +1,146 @@
+# newdoc id = senti_testset/4063.txt
+# newpar
+# sent_id = 1
+# text = Как то посещали данное заведение с женой и друзьями прочитав положительные отзывы.
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	посещали	посещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	данное	данный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	заведение	заведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	женой	жена	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	друзьями	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	_
+10	прочитав	читать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	_
+11	положительные	положительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+12	отзывы	отзыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Столик заказали заранее,обстановка довольно уютная,офицыанта и меню ждали минут двадцать,но не дождались, решили этот вопрос сами!!
+1	Столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+2	заказали	заказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	заранее	заранее	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	SpaceAfter=No
+5	обстановка	обстановка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	довольно	довольно	ADV	_	Degree=Pos	7	obl	_	_
+7	уютная	уютный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	офицыанта	офицыант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+12	ждали	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	_
+14	двадцать	двадцать	NUM	_	Case=Acc	13	nummod:gov	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	но	но	CCONJ	_	_	18	cc	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	дождались	дожидаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+21	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	22	det	_	_
+22	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+23	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	obl	_	SpaceAfter=No
+24	!	!	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !
+1	!	!	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = Заказ начали приносить через полтора часа, мы уже собирались уходить,носили в течении ещё полутора часов!!
+1	Заказ	заказ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+2	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	приносить	приносить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	через	через	ADP	_	_	6	case	_	_
+5	полтора	полтора	NUM	_	Case=Acc|Gender=Masc	6	nummod:gov	_	_
+6	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	10	nsubj	_	_
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	_
+10	собирались	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+11	уходить	уходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	носили	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	течении	течение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+16	ещё	еще	ADV	_	Degree=Pos	18	obl	_	_
+17	полутора	полтора	NUM	_	Case=Gen	18	nummod	_	_
+18	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+19	!	!	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = !
+1	!	!	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = Из семи заказанных блюд понравились только два!!!В ресторане довольно уютно,была не плохая программа развлечений в которой мы принимали непосредственное участие!!
+1	Из	из	ADP	_	_	4	case	_	_
+2	семи	семь	NUM	_	Case=Gen	4	nummod	_	_
+3	заказанных	заказать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	obl	_	_
+5	понравились	понравиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	nsubj	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	два	два	NUM	_	Case=Acc|Gender=Neut	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	В	в	ADP	_	_	12	case	_	_
+12	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+13	довольно	довольно	ADV	_	Degree=Pos	14	advmod	_	_
+14	уютно	уютный	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	SpaceAfter=No
+16	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	плохая	плохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+20	развлечений	развлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	которой	который	PRON	_	Case=Loc	20	nmod	_	_
+23	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	24	nsubj	_	_
+24	принимали	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+25	непосредственное	непосредственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	участие	участие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obj	_	SpaceAfter=No
+27	!	!	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 7
+# text = !В СВЯЗИ С ВЫШЕ ИЗЛОЖЕННЫМ АДМИНИСТРАЦИИ ДАННОГО ЗАВЕДЕНИЯ ХОЧЕТСЯ ПОЖЕЛАТЬ БОЛЕЕ ВНИМАТЕЛЬНО ОТНОСИТЬСЯ КО ВСЕМ ГОСТЯМ ЗАВЕДЕНИЯ И ПРОВЕСТИ РАБОТУ НАД ОШИБКАМИ,А ПОКА ЭТОГО НЕ ПРОИЗОШЛО ДЕЛАТЬ ТАМ НЕЧЕГО!!!
+1	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	В	в	ADP	_	_	7	case	_	_
+3	СВЯЗИ	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	fixed	_	_
+4	С	с	ADP	_	_	2	fixed	_	_
+5	ВЫШЕ	высокий	ADV	_	Degree=Cmp	2	fixed	_	_
+6	ИЗЛОЖЕННЫМ	ИЗЛОЖЕНН	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	_
+7	АДМИНИСТРАЦИИ	администрация	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
+8	ДАННОГО	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	ЗАВЕДЕНИЯ	заведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	ХОЧЕТСЯ	хотеться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	ПОЖЕЛАТЬ	желать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	БОЛЕЕ	более	ADV	_	Degree=Cmp	14	advmod	_	_
+13	ВНИМАТЕЛЬНО	внимательно	ADV	_	Degree=Pos	14	advmod	_	_
+14	ОТНОСИТЬСЯ	относиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	11	xcomp	_	_
+15	КО	к	ADP	_	_	17	case	_	_
+16	ВСЕМ	весь	DET	_	Case=Dat|Number=Plur	17	det	_	_
+17	ГОСТЯМ	ГОСТЯМ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	obl	_	_
+18	ЗАВЕДЕНИЯ	заведение	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	И	и	CCONJ	_	_	20	cc	_	_
+20	ПРОВЕСТИ	Провесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	conj	_	_
+21	РАБОТУ	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+22	НАД	над	ADP	_	_	23	case	_	_
+23	ОШИБКАМИ	ошибка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	SpaceAfter=No
+25	А	а	CCONJ	_	_	29	cc	_	_
+26	ПОКА	пока	SCONJ	_	_	29	mark	_	_
+27	ЭТОГО	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	_
+28	НЕ	не	PART	_	_	29	advmod	_	_
+29	ПРОИЗОШЛО	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	_
+30	ДЕЛАТЬ	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+31	ТАМ	ты	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	30	iobj	_	_
+32	НЕЧЕГО	что	PRON	_	Case=Gen	31	conj	_	SpaceAfter=No
+33	!	!	PUNCT	_	_	32	punct	_	SpaceAfter=No
+34	!	!	PUNCT	_	_	32	punct	_	SpaceAfter=No
+35	!	!	PUNCT	_	_	14	punct	_	SpacesAfter=\n
+

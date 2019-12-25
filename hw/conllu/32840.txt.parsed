@@ -1,0 +1,235 @@
+# newdoc id = senti_testset/32840.txt
+# newpar
+# sent_id = 1
+# text = Никогда не писал отзывы, но тут - просто обязан!
+1	Никогда	никогда	ADV	_	Degree=Pos	3	advmod	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	писал	писать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	отзывы	отзыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	но	но	CCONJ	_	_	10	cc	_	_
+7	тут	тут	ADV	_	Degree=Pos	10	advmod	_	_
+8	-	-	PUNCT	_	_	10	punct	_	_
+9	просто	просто	PART	_	_	10	advmod	_	_
+10	обязан	обязанный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = Искали с друзьями хорошее местечко на севере, чтобы было уютно, не сильно шумно как в популярных кафе-барах, но и не ресторан - в общем приличный паб для хорошей выпивки и закуски.
+1	Искали	искать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	друзьями	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	1	obl	_	_
+4	хорошее	хороший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	местечко	местечко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	севере	север	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	чтобы	чтобы	SCONJ	_	Mood=Cnd	10	mark	_	_
+10	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+11	уютно	уютный	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	сильно	сильно	ADV	_	Degree=Pos	15	advmod	_	_
+15	шумно	шумно	ADV	_	Degree=Pos	10	advmod	_	_
+16	как	как	SCONJ	_	_	19	mark	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	популярных	популярный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	19	amod	_	_
+19	кафе-барах	кафе-бар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	но	но	CCONJ	_	_	24	cc	_	_
+22	и	и	PART	_	_	21	advmod	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
+25	-	-	PUNCT	_	_	29	punct	_	_
+26	в	в	ADP	_	_	29	case	_	_
+27	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+28	приличный	приличный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	паб	паб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	parataxis	_	_
+30	для	для	ADP	_	_	32	case	_	_
+31	хорошей	хороший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	выпивки	выпивка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	закуски	закуска	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	conj	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = И это место именно то, что надо!
+1	И	и	CCONJ	_	_	5	cc	_	_
+2	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+3	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	именно	именно	PART	_	_	5	advmod	_	_
+5	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	что	что	SCONJ	_	_	8	mark	_	_
+8	надо	надо	ADV	_	Degree=Pos	5	acl	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = И даже лучше.
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	даже	даже	PART	_	_	3	advmod	_	_
+3	лучше	хороший	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Правда сам факт того, что нам удалось посидеть в этом заведении считаю везением - увидели свободный столик почти в углу - просто повезло что он был свободен.
+1	Правда	правда	ADV	_	Degree=Pos	0	root	_	_
+2	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	что	что	SCONJ	_	_	8	mark	_	_
+7	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	8	iobj	_	_
+8	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	_
+9	посидеть	посидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	12	det	_	_
+12	заведении	заведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+13	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	_
+14	везением	везение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+15	-	-	PUNCT	_	_	16	punct	_	_
+16	увидели	видеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	_	_
+17	свободный	свободный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+19	почти	почти	ADV	_	Degree=Pos	21	obl	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	углу	угол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+22	-	-	PUNCT	_	_	24	punct	_	_
+23	просто	просто	PART	_	_	24	advmod	_	_
+24	повезло	везти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	_
+25	что	что	SCONJ	_	_	28	mark	_	_
+26	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	nsubj	_	_
+27	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	cop	_	_
+28	свободен	свободный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	24	ccomp	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 6
+# text = Поэтому теперь перед походом сюда - будем бронировать.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	8	advmod	_	_
+2	теперь	теперь	ADV	_	Degree=Pos	8	advmod	_	_
+3	перед	перед	ADP	_	_	4	case	_	_
+4	походом	поход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+5	сюда	сюда	ADV	_	Degree=Pos	8	advmod	_	_
+6	-	-	PUNCT	_	_	5	punct	_	_
+7	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+8	бронировать	бронировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 7
+# text = Пиво не пробовали - поэтому ничего не скажу.
+1	Пиво	пиво	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	пробовали	пробовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	-	-	PUNCT	_	_	8	punct	_	_
+5	поэтому	поэтому	ADV	_	Degree=Pos	8	advmod	_	_
+6	ничего	ничто	PRON	_	Case=Gen	8	obl	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	скажу	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = Пробовали коктейли- прекрасные, чувствуется, что сделаны из хороших напитков, как положено.
+1	Пробовали	пробовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	коктейли	коктейль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	_
+4	прекрасные	прекрасный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	чувствуется	чувствоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	что	что	SCONJ	_	_	9	mark	_	_
+9	сделаны	делать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	ccomp	_	_
+10	из	из	ADP	_	_	12	case	_	_
+11	хороших	хороший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	как	как	SCONJ	_	_	15	mark	_	_
+15	положено	положенный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 9
+# text = Отдельное спасибо официантке- она просто угадывала наши желания, и советовала то, что нам и хотелось.
+1	Отдельное	отдельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+3	официантке	официантка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	2	punct	_	_
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+6	просто	просто	PART	_	_	7	advmod	_	_
+7	угадывала	угадывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	наши	наш	DET	_	Case=Acc|Number=Plur	9	det	_	_
+9	желания	желание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	советовала	советовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+13	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	что	что	SCONJ	_	_	18	mark	_	_
+16	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	18	iobj	_	_
+17	и	и	PART	_	_	18	advmod	_	_
+18	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	acl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10
+# text = Обслуживание 10 баллов.
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	10	10	NUM	_	_	3	nummod	_	_
+3	баллов	балл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Еда вкусная.
+1	Еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	вкусная	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 12
+# text = Еще стоит отметить прекрасный, уютный и стильный интерьер и безупречно подобранный музыкальный фон (для тех, кому это важно).
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	_
+2	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+4	прекрасный	прекрасный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	уютный	уютный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	стильный	стильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
+9	интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+10	и	и	CCONJ	_	_	14	cc	_	_
+11	безупречно	безупречно	ADV	_	Degree=Pos	12	advmod	_	_
+12	подобранный	подобрать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+13	музыкальный	музыкальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	фон	фон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+15	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	для	для	ADP	_	_	17	case	_	_
+17	тех	тот	DET	_	Case=Gen|Number=Plur	14	det	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	кому	кто	PRON	_	Case=Dat	21	iobj	_	_
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+21	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	17	acl:relcl	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13
+# text = Ощущение было, что я дома, и все свои.
+1	Ощущение	ощущение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	что	что	SCONJ	_	_	6	mark	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	дома	дома	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	все	весь	DET	_	Case=Nom|Number=Plur	10	det	_	_
+10	свои	свой	DET	_	Case=Nom|Number=Plur	6	det	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 14
+# text = Спасибо, "радио" за отличный вечер!
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	радио	радио	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	за	за	ADP	_	_	8	case	_	_
+7	отличный	отличный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,140 @@
+# newdoc id = senti_testset/5648.txt
+# newpar
+# sent_id = 1
+# text = Ужасный персонал на Невском пр-те 22, особенно если сидеть у окна (некурящих).
+1	Ужасный	ужасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	персонал	персонал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	Невском	невский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	пр-те	пр-т	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	22	22	NUM	_	_	5	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	особенно	особенно	ADV	_	Degree=Pos	10	advmod	_	_
+9	если	если	SCONJ	_	_	10	mark	_	_
+10	сидеть	сидеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	parataxis	_	_
+11	у	у	ADP	_	_	12	case	_	_
+12	окна	окно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	некурящих	некурящий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	appos	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Там всегда обслуживают новые официанты, плохо знающие меню.
+1	Там	там	ADV	_	Degree=Pos	3	advmod	_	_
+2	всегда	всегда	ADV	_	Degree=Pos	3	advmod	_	_
+3	обслуживают	обслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	_
+5	официанты	официант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	плохо	плохо	ADV	_	Degree=Pos	8	advmod	_	_
+8	знающие	знать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
+9	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Приносят не то что заказываешь.
+1	Приносят	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	obl	_	_
+4	что	что	SCONJ	_	_	3	fixed	_	_
+5	заказываешь	заказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Хотя должен отметить, что не все официанты такие, есть всегда вежливые, хорошо обученные.
+1	Хотя	хотя	SCONJ	_	_	2	mark	_	_
+2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+3	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	что	что	SCONJ	_	_	11	mark	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	все	весь	DET	_	Case=Acc|Number=Plur	8	det	_	_
+8	официанты	официант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+9	такие	такой	DET	_	Case=Nom|Number=Plur	8	det	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+12	всегда	всегда	ADV	_	Degree=Pos	13	obl	_	_
+13	вежливые	вежливый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	хорошо	хорошо	ADV	_	Degree=Pos	16	advmod	_	_
+16	обученные	обучить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 5
+# text = И девченки что на входе всегда очень аккуратно относятся к клиентам.
+1	И	и	CCONJ	_	_	9	cc	_	_
+2	девченки	девченка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+3	что	что	SCONJ	_	_	9	mark	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	входе	вход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+6	всегда	всегда	ADV	_	Degree=Pos	9	advmod	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
+8	аккуратно	аккуратно	ADV	_	Degree=Pos	9	advmod	_	_
+9	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	клиентам	клиент	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 6
+# text = После 2 месяцев обедов в этом заведении, и 4 раз, когда обед приносли через час после заказа, естественно весь остывший, больше нет желания заходить сюда.
+1	После	после	ADP	_	_	3	case	_	_
+2	2	2	NUM	_	_	3	nummod	_	_
+3	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+4	обедов	обед	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	7	det	_	_
+7	заведении	заведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	4	4	NUM	_	_	11	nummod	_	_
+11	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	когда	когда	SCONJ	_	_	15	mark	_	_
+14	обед	обед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+15	приносли	принасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	_	_
+16	через	через	ADP	_	_	17	case	_	_
+17	час	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+18	после	после	ADP	_	_	19	case	_	_
+19	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	26	punct	_	_
+21	естественно	естественно	ADV	_	Degree=Pos	26	parataxis	_	_
+22	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+23	остывший	остыть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	26	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	больше	больше	ADV	_	Degree=Cmp	26	advmod	_	_
+26	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+27	желания	желание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nsubj	_	_
+28	заходить	заходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	obl	_	_
+29	сюда	сюда	ADV	_	Degree=Pos	28	advmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Судя по оценкам сервиса, я не единственный.
+1	Судя	судить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	parataxis	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	оценкам	оценка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	1	obl	_	_
+4	сервиса	сервис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	единственный	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 8
+# text = Ребята если Вам сложно кормить людей в обед, пожалуйста не делайте этого.
+1	Ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
+2	если	если	SCONJ	_	_	4	mark	_	_
+3	Вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	4	iobj	_	_
+4	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	advcl	_	_
+5	кормить	кормить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	обед	обед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	пожалуйста	пожалуйста	ADV	_	Degree=Pos	12	advmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	делайте	делать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+13	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n
+

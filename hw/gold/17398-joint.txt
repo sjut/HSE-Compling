@@ -1,0 +1,9 @@
+0,4	3	2	service	1
+0,4	4	1,4,5	food	1
+0,4	4	1,4,5	food	1
+0	4	7,10,11	srvice	1
+0	4	7,11	srvice	1
+0	4	9,10,11	srvice	1
+0	4	9,11	srvice	1
+0	4	10,11	srvice	1
+0	4	11	srvice	1

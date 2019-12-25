@@ -1,0 +1,139 @@
+# newdoc id = senti_testset/22975.txt
+# newpar
+# sent_id = 1
+# text = Недавно посетила данный ресторан,я согласна со многими,что основной зал тесноват,но понравилась,что есть детская комната,гда с ребенком сидела няня пока мы ужинали,плюс то что для детей есть бесплатное детское меню.
+1	Недавно	недавно	ADV	_	Degree=Pos	2	advmod	_	_
+2	посетила	посетить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+4	ресторан,	ресторан	ADV	_	Degree=Pos	6	obl	_	SpaceAfter=No
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	согласна	согласный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	nsubj	_	_
+7	со	с	ADP	_	_	8	case	_	_
+8	многими	много	NUM	_	_	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+10	что	что	SCONJ	_	_	13	mark	_	_
+11	основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	зал	зал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	тесноват	тесноват	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	но	но	CCONJ	_	_	16	cc	_	_
+16	понравилась	понравиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	что	что	SCONJ	_	_	19	mark	_	_
+19	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	_
+20	детская	детский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	комната	комната	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
+23	гда	гда	ADV	_	Degree=Pos	26	advmod	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	ребенком	ребенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
+26	сидела	сидеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
+27	няня	няня	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	_
+28	пока	пока	ADV	_	Degree=Pos	30	advmod	_	_
+29	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	30	nsubj	_	_
+30	ужинали	ужинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	SpaceAfter=No
+32	плюс	плюс	ADP	_	_	33	case	_	_
+33	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obl	_	_
+34	что	что	SCONJ	_	_	37	mark	_	_
+35	для	для	ADP	_	_	36	case	_	_
+36	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	37	obl	_	_
+37	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	acl	_	_
+38	бесплатное	бесплатный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+39	детское	детский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+40	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	nsubj	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Да музыка играла громко,но при этом понравилось,что это национальная и живая музыка.
+1	Да	да	CCONJ	_	_	3	cc	_	_
+2	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	играла	играть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	громко	громко	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	SpaceAfter=No
+6	но	но	CCONJ	_	_	9	cc	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	SpaceAfter=No
+11	что	что	SCONJ	_	_	16	mark	_	_
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+13	национальная	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	живая	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	_
+16	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	ccomp	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Обслуживал очень приятный молодой человек,постоянно улыбающийся и посоветовавший нам хорошие блюда.
+1	Обслуживал	Обслуживать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	очень	очень	ADV	_	Degree=Pos	3	obl	_	_
+3	приятный	приятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+4	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	постоянно	постоянно	ADV	_	Degree=Pos	8	advmod	_	_
+8	улыбающийся	улыбаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	5	acl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	посоветовавший	советовать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	_
+11	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	10	iobj	_	_
+12	хорошие	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Кухня действительно похожа на греческую(в Греции бываю почти каждое лето).
+1	Кухня	Кухня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	действительно	действительно	ADV	_	Degree=Pos	3	obl	_	_
+3	похожа	похожий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	греческую	греческий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+7	в	в	ADP	_	_	8	case	_	_
+8	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+9	бываю	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+10	почти	почти	ADV	_	Degree=Pos	11	obl	_	_
+11	каждое	каждый	DET	_	Case=Acc|Gender=Neut|Number=Sing	12	det	_	_
+12	лето	лето	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Вкусный шашлык и прекрасный выбор салатов, довольно большой выбор алкоголя.
+1	Вкусный	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	шашлык	шашлык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	и	и	CCONJ	_	_	5	cc	_	_
+4	прекрасный	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+6	салатов	салат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	довольно	довольно	ADV	_	Degree=Pos	9	obl	_	_
+9	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+11	алкоголя	алкоголь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Плюс цена довольна не высокая для центра города.
+1	Плюс	плюс	ADV	_	Degree=Pos	3	advmod	_	_
+2	цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	довольна	довольный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	высокая	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	центра	центр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+8	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Так что думаю еще не раз семьей сходим.
+1	Так	так	ADV	_	Degree=Pos	3	mark	_	_
+2	что	что	SCONJ	_	_	1	fixed	_	_
+3	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	еще	еще	ADV	_	Degree=Pos	6	obl	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+7	семьей	семья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+8	сходим	сходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+

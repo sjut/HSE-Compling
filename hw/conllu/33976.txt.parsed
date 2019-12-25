@@ -1,0 +1,187 @@
+# newdoc id = senti_testset/33976.txt
+# newpar
+# sent_id = 1
+# text = 03.09.2014 отмечали в ресторане "Любимый" день рождения любимого.
+1	03.09.2014	03.09.2014	X	_	Foreign=Yes	2	nsubj	_	_
+2	отмечали	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Любимый	любимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+9	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	любимого	любимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Праздничный ужин проходил на 3 этаже.
+1	Праздничный	праздничный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	ужин	ужин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	проходил	проходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	3	3	NUM	_	_	6	nummod	_	_
+6	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Интерьер ресторана очень интересный.
+1	Интерьер	интерьер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	очень	очень	ADV	_	Degree=Pos	4	obl	_	_
+4	интересный	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4
+# text = Обслуживающий персонал , конечно, испортил весь праздничный вечер лично для нас и наших друзей.
+1	Обслуживающий	обслуживающий	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
+2	персонал	персонал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	конечно	конечно	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	испортил	испортить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	9	det	_	_
+8	праздничный	праздничный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+10	лично	лично	ADV	_	Degree=Pos	6	advmod	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	6	obl	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	наших	наш	DET	_	Case=Gen|Number=Plur	15	det	_	_
+15	друзей	друзей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 5
+# text = Во-первых, вовремя обслуживания, официант Анастасия уронила грязные приборы на гостя.
+1	Во-первых	во-первых	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	вовремя	вовремя	ADV	_	Degree=Pos	4	obl	_	_
+4	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	официант	официант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	Анастасия	Анастасия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	appos	_	_
+8	уронила	уронить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	грязные	грязный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	приборы	прибор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	гостя	гость	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 6
+# text = Во- вторых, постоянно забирала посуду в которой еще находилась еда, а пустую посуду оставляла на столе.
+1	Во	в	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	_
+3	вторых	второй	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	постоянно	постоянно	ADV	_	Degree=Pos	6	advmod	_	_
+6	забирала	забирать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	посуду	посуда	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	которой	который	PRON	_	Case=Loc	11	obl	_	_
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	_
+11	находилась	находиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	_
+12	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	а	а	CCONJ	_	_	17	cc	_	_
+15	пустую	пустой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	obj	_	_
+16	посуду	посуда	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	_
+17	оставляла	оставлять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	столе	стол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 7
+# text = В конце вечера заказав воду принесла ее через 20 минут, при этом сказав, что она все это время кушала, ей было не когда.
+1	В	в	ADP	_	_	2	case	_	_
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+3	вечера	вечер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	заказав	заказать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	_
+5	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	принесла	принести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	_	_
+8	через	через	ADP	_	_	10	case	_	_
+9	20	20	NUM	_	_	10	nummod	_	_
+10	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	при	при	ADP	_	_	13	case	_	_
+13	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+14	сказав	сказать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	21	punct	_	_
+16	что	что	SCONJ	_	_	21	mark	_	_
+17	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
+18	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	20	det	_	_
+19	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	20	det	_	_
+20	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+21	кушала	кушал	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	26	iobj	_	_
+24	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	когда	когда	ADV	_	Degree=Pos	21	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# text = Мужчины заказали себе бутылочку Текилы, лимон и соль.
+1	Мужчины	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	заказали	заказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	себе	себя	PRON	_	Case=Dat	2	iobj	_	_
+4	бутылочку	бутылочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	Текилы	Текила	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	лимон	лимон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	соль	соль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Все приносилось отдельно , с разницей во времени 10 минут.
+1	Все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	приносилось	носиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	отдельно	отдельно	ADV	_	Degree=Pos	2	advmod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	разницей	разница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+7	во	в	ADP	_	_	8	case	_	_
+8	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	10	10	NUM	_	_	10	nummod	_	_
+10	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 10
+# text = Что очень сильно удивило.
+1	Что	что	PRON	_	Case=Nom	4	nsubj	_	_
+2	очень	очень	ADV	_	Degree=Pos	3	advmod	_	_
+3	сильно	сильно	ADV	_	Degree=Pos	4	advmod	_	_
+4	удивило	удивить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 11
+# text = Я бы не рекомендовала идти в данный ресторан.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	бы	бы	PART	_	Mood=Cnd	4	aux	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	рекомендовала	рекомендовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 12
+# text = Есть в Петербурге рестораны на много лучше и доступны по цене и качеству обслуживания.
+1	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	Петербурге	Петербург	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+4	рестораны	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	много	много	ADV	_	Degree=Pos	7	obl	_	_
+7	лучше	хороший	ADJ	_	Degree=Cmp	4	obl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	доступны	доступный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	conj	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	цене	цена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	качеству	качество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	conj	_	_
+14	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

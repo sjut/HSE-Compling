@@ -1,0 +1,178 @@
+# newdoc id = senti_testset/37819.txt
+# newpar
+# sent_id = 1
+# text = Очень долго выбирали ресторан на Новогодний карпоратив и наш выбор остановился в этот год на кафе "Кон-Коронель" на Шкапина 10.
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	долго	долго	ADV	_	Degree=Pos	3	advmod	_	_
+3	выбирали	выбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	Новогодний	новогодний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	карпоратив	карпоратив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
+10	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	остановился	остановиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	14	det	_	_
+14	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	кафе	кафе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	Кон-Коронель	Кон-Коронель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	Шкапина	Шкапин	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+22	10	10	NUM	_	_	11	nummod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = И как оказалось в дальнейшем это был правильный выбор.
+1	И	и	CCONJ	_	_	9	cc	_	_
+2	как	как	SCONJ	_	_	3	mark	_	_
+3	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	дальнейшем	дальнейший	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	obl	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	правильный	правильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 3
+# text = От проведённого времени в этом месте остались только положительные воспоминания!
+1	От	от	ADP	_	_	3	case	_	_
+2	проведённого	проведёть	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	6	det	_	_
+6	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	остались	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	только	только	PART	_	_	9	advmod	_	_
+9	положительные	положительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	воспоминания	воспоминание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4
+# text = Очень понравилась шоу программа и ведущая, которая с самого начала и до самого конца вечера создала доброжелательную и непренуждённую атмосферу))
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	понравилась	понравиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	шоу	шоу	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	obj	_	_
+4	программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	ведущая	ведущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	которая	который	PRON	_	Case=Nom	17	nsubj	_	_
+9	с	с	ADP	_	_	11	case	_	_
+10	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	до	до	ADP	_	_	15	case	_	_
+14	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	_
+16	вечера	вечер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	создала	создать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+18	доброжелательную	доброжелательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	непренуждённую	непренуждённый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	conj	_	_
+21	атмосферу	атмосфера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	2	punct	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 5
+# text = В плане кухни и обслуживания нет ни одного нарекания, официанты все дружелюбные и своё дело знают хорошо.
+1	В	в	ADP	_	_	2	case	_	_
+2	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+3	кухни	кухень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+6	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ни	ни	PART	_	_	8	advmod	_	_
+8	одного	один	NUM	_	Case=Gen|Gender=Neut	9	nummod	_	_
+9	нарекания	нарекание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	официанты	официант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
+12	все	весь	DET	_	Case=Acc|Number=Plur	13	det	_	_
+13	дружелюбные	дружелюбный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	16	det	_	_
+16	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+18	хорошо	хорошо	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 6
+# text = По поводу нашего банкетного меню хочу сказать отдельное спасибо администратору Ирине!
+1	По	по	ADP	_	_	5	case	_	_
+2	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	fixed	_	_
+3	нашего	наш	DET	_	Case=Gen|Gender=Masc|Number=Sing	5	det	_	_
+4	банкетного	банкетный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	отдельное	отдельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	администратору	администратор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+11	Ирине	Ирина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 7
+# text = Мы очень долго обсуждали с ней что и как будет находится на наших столах в тот вечер и она полностью оправдала наши ожидания!
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	4	nsubj	_	_
+2	очень	очень	ADV	_	Degree=Pos	3	advmod	_	_
+3	долго	долго	ADV	_	Degree=Pos	4	advmod	_	_
+4	обсуждали	обсуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	4	obl	_	_
+7	что	что	PRON	_	Case=Nom	11	nsubj	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	как	как	ADV	_	Degree=Pos	11	advmod	_	_
+10	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	наших	наш	DET	_	Case=Loc|Number=Plur	14	det	_	_
+14	столах	стол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
+17	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+18	и	и	CCONJ	_	_	21	cc	_	_
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
+20	полностью	полностью	ADV	_	Degree=Pos	21	advmod	_	_
+21	оправдала	оправдать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+22	наши	наш	DET	_	Case=Acc|Number=Plur	23	det	_	_
+23	ожидания	ожидание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	21	obj	_	SpaceAfter=No
+24	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = Огромное спасибо ресторану и всему персоналу за превосходный вечер!
+1	Огромное	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	ресторану	ресторан	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+6	персоналу	персонал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	conj	_	_
+7	за	за	ADP	_	_	9	case	_	_
+8	превосходный	превосходный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = В следующем году вопрос выбора места для новогоднего корпоратива уже не стоит - только Кон-Коронель!
+1	В	в	ADP	_	_	3	case	_	_
+2	следующем	следующий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+4	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+5	выбора	выбор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	новогоднего	новогодний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	корпоратива	корпоратив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+10	уже	уже	ADV	_	Degree=Pos	12	advmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	-	-	PUNCT	_	_	16	punct	_	_
+14	только	только	PART	_	_	16	advmod	_	_
+15	Кон-	кон-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	Коронель	Коронель	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+17	!	!	PUNCT	_	_	12	punct	_	SpacesAfter=\n
+

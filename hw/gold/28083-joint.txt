@@ -1,0 +1,6 @@
+3,6	1	46	service	1
+3,6	1	49	food	1
+3,6	1	59,60,61	food	1
+3,6	2	24	service	1
+3,6	2	48,49	service	1
+3,6	2	113	service	1

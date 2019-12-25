@@ -1,0 +1,248 @@
+# newdoc id = senti_testset/33591.txt
+# newpar
+# sent_id = 1
+# text = Отличное кафе!!!!
+1	Отличное	Отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	кафе	кафе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Отмечала в нем свой день рождения с друзьями.
+1	Отмечала	отмечать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+4	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+6	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	друзьями	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Все было замечательно - вкусная и обильная еда, большие блюда, обстановка, вежливая администратор Александра.
+1	Все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	замечательно	замечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	-	-	PUNCT	_	_	8	punct	_	_
+5	вкусная	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	обильная	обильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	_
+8	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	большие	большой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	обстановка	обстановка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	вежливая	вежливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	администратор	администратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+17	Александра	Александр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# text = Небольшое уютное кафе.
+1	Небольшое	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	уютное	уютный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	кафе	кафе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Очень низкие цены (и это с учетом того, что место находится на Невском проспекте).
+1	Очень	очень	ADV	_	Degree=Pos	2	obl	_	_
+2	низкие	низкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	цены	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+4	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+5	и	и	CCONJ	_	_	8	cc	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	parataxis	_	_
+9	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	что	что	SCONJ	_	_	13	mark	_	_
+12	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+13	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	acl	_	_
+14	на	на	ADP	_	_	16	case	_	_
+15	Невском	невский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	проспекте	проспект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Я уже не первый раз сюда хожу и всегда очень довольна.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+2	уже	уже	ADV	_	Degree=Pos	4	obl	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+6	сюда	сюда	ADV	_	Degree=Pos	7	advmod	_	_
+7	хожу	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	всегда	всегда	ADV	_	Degree=Pos	11	advmod	_	_
+10	очень	очень	ADV	_	Degree=Pos	11	obl	_	_
+11	довольна	довольный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 7
+# text = Очень вкусные хачапури с сыром, вкусный лосось (кусок очень большой и сытный).
+1	Очень	очень	ADV	_	Degree=Pos	2	obl	_	_
+2	вкусные	вкусный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	хачапури	хачапуря	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	сыром	сыр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	вкусный	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	лосось	лосось	ADV	_	Degree=Pos	3	conj	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	кусок	кусок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	parataxis	_	_
+11	очень	очень	ADV	_	Degree=Pos	12	obl	_	_
+12	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	сытный	сытный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = И много другой вкусной еды.
+1	И	и	CCONJ	_	_	2	cc	_	_
+2	много	много	ADV	_	Degree=Pos	0	root	_	_
+3	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	вкусной	вкусный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	еды	еда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = У меня все друзья решили сюда прийти еще не раз.
+1	У	у	ADP	_	_	2	case	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	5	obl	_	_
+3	все	весь	DET	_	Case=Nom|Number=Plur	4	det	_	_
+4	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	сюда	сюда	ADV	_	Degree=Pos	5	advmod	_	_
+7	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+8	еще	еще	ADV	_	Degree=Pos	10	obl	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 10
+# text = Если говорить о минусах: Минус, пожалуй, один:
+1	Если	если	SCONJ	_	_	2	mark	_	_
+2	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	advcl	_	_
+3	о	о	ADP	_	_	4	case	_	_
+4	минусах	минус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	2	punct	_	_
+6	Минус	минус	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	пожалуй	пожалуй	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	один	один	NUM	_	Case=Nom|Gender=Masc	0	root	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 11
+# text = Внизу не очень красивый антураж.
+1	Внизу	внизу	ADV	_	Degree=Pos	0	root	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	очень	очень	ADV	_	Degree=Pos	4	obl	_	_
+4	красивый	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	антураж	антураж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = ПО крайней мере, мне не очень нравится.
+1	ПО	по	ADP	_	_	8	advmod	_	_
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	_
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	8	iobj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
+8	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 13
+# text = Но, наверное, это на любителя.
+1	Но	но	CCONJ	_	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	наверное	наверное	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	любителя	любитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 14
+# text = На верхнем этаже все супер!!!!
+1	На	на	ADP	_	_	3	case	_	_
+2	верхнем	верхний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+4	все	весь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	супер	супер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15
+# text = НО зато внизу можно попеть караоке!
+1	НО	но	CCONJ	_	_	4	cc	_	_
+2	зато	зато	PART	_	_	4	advmod	_	_
+3	внизу	внизу	ADV	_	Degree=Pos	4	advmod	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	попеть	петь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	караоке	караок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# text = Есть ооочень вкусный кальян.
+1	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ооочень	ооочень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	вкусный	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	кальян	кальянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = В общем, порекомендую это место всем тем, кто хочет вкусно, сытно и не очень дорого отметить какой-нибудь праздник или просто посидеть вдвоем в уютной обстановке.
+1	В	в	ADP	_	_	2	case	_	_
+2	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	порекомендую	рекомендовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	6	det	_	_
+6	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+7	всем	весь	DET	_	Case=Dat|Number=Plur	8	det	_	_
+8	тем	тот	DET	_	Case=Dat|Number=Plur	4	det	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	кто	кто	PRON	_	Case=Nom	11	nsubj	_	_
+11	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+12	вкусно	вкусно	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	сытно	сытный	ADV	_	Degree=Pos	12	conj	_	_
+15	и	и	PART	_	_	18	advmod	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	очень	очень	ADV	_	Degree=Pos	18	obl	_	_
+18	дорого	дорого	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advmod	_	_
+19	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	csubj	_	_
+20	какой-нибудь	какой-нибудь	DET	_	Case=Acc|Gender=Masc|Number=Sing	21	det	_	_
+21	праздник	праздник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	_
+22	или	или	CCONJ	_	_	24	cc	_	_
+23	просто	просто	PART	_	_	24	advmod	_	_
+24	посидеть	сидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
+25	вдвоем	вдвоем	ADV	_	Degree=Pos	24	advmod	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	уютной	уютный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	обстановке	обстановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 18
+# text = Очень-очень довольна!!!!
+1	Очень	очень	ADV	_	Degree=Pos	4	obl	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	очень	очень	ADV	_	Degree=Pos	4	obl	_	_
+4	довольна	довольный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+

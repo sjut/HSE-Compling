@@ -1,0 +1,17 @@
+2	3	5	service	0
+2	3	14,15,16	service	0
+2,6	4	5,6	service	0
+2	5	5,6,7,8	service	0
+2,6	6	6,7,8	service	0
+2	8	1	service	0
+2	8	5	service	0
+2	8	14,15,16	service	0
+2	8	22	service	0
+2	8	27,28	service	0
+2	9	2,3,4,5	service	0
+2,6	10	21,22	food	0
+2	10	9,10	service	0
+2,6	11	3,4,5	service	0
+2	14	13	service	1
+2	14	19,20	service	1
+2	14	27	service	0

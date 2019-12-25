@@ -1,0 +1,129 @@
+# newdoc id = senti_testset/15159.txt
+# newpar
+# sent_id = 1
+# text = Последний раз был в этом ресторане несколько лет назад.
+1	Последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	6	det	_	_
+6	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+7	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	8	nummod:gov	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+9	назад	назад	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 2
+# text = Тогда понравилась вкусная еда и большие порции + гуманные цены.
+1	Тогда	тогда	ADV	_	Degree=Pos	2	advmod	_	_
+2	понравилась	понравиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	вкусная	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	большие	большой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	порции	порция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	conj	_	_
+8	+	+	PUNCT	_	_	10	punct	_	_
+9	гуманные	гуманный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	цены	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+# text = Сидели на втором этаже.
+1	Сидели	сидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	на	на	ADP	_	_	4	case	_	_
+3	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Зал симпатичный, обслуживание не выдающееся, но и не навязчивое.
+1	Зал	зал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	симпатичный	симпатичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	выдающееся	выдаться	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	4	acl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	но	но	CCONJ	_	_	11	cc	_	_
+9	и	и	PART	_	_	11	advmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	навязчивое	навязчивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Впечатление осталось положительное.
+1	Впечатление	впечатление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	положительное	положительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Недавно решил отпраздновать день рождения небольшой компанией и решил сходить сюда и освежить воспоминания.
+1	Недавно	недавно	ADV	_	Degree=Pos	2	advmod	_	_
+2	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	отпраздновать	праздновать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	небольшой	небольшой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	компанией	компания	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+10	сходить	ходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	сюда	сюда	ADV	_	Degree=Pos	10	advmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	освежить	освежить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	_
+14	воспоминания	воспоминание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Как и раньше - еда вкусная, цены достойные.
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	и	и	PART	_	_	3	advmod	_	_
+3	раньше	рано	ADV	_	Degree=Cmp	0	root	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
+5	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	вкусная	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	цены	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+9	достойные	достойный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = Меню большое - можно долго выбирать.
+1	Меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	obj	_	_
+2	большое	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	_
+3	-	-	PUNCT	_	_	4	punct	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	долго	долго	ADV	_	Degree=Pos	6	advmod	_	_
+6	выбирать	выбирать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 9
+# text = Сидели на первом этаже.
+1	Сидели	сидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	на	на	ADP	_	_	4	case	_	_
+3	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Интерьер интересный - такого не видел раньше.
+1	Интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	интересный	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	-	-	PUNCT	_	_	1	punct	_	_
+4	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	раньше	рано	ADV	_	Degree=Cmp	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 11
+# text = Гостям и мне в целом понравилось.
+1	Гостям	Гость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	0	root	_	_
+2	и	и	CCONJ	_	_	6	cc	_	_
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	6	iobj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

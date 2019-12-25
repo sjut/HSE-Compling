@@ -1,0 +1,63 @@
+# newdoc id = reviews_train/01010
+# newpar
+# sent_id = 1
+# text = Мансарда Анна Мах 15.12.2011 20:16 0
+1	Мансарда	мансарда	ADV	_	Degree=Pos	2	obl	_	SpacesBefore=\n\n|SpacesAfter=\n
+2	Анна	Анна	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+3	Мах	мы	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	nmod	_	SpacesAfter=\n
+4	15.12.2011	15.12.2011	NOUN	_	_	2	nsubj	_	_
+5	20	20	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	16	16	NUM	_	_	8	nummod	_	SpacesAfter=\n
+8	0	0	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = 8 9 9
+1	8	8	NUM	_	_	0	root	_	SpacesAfter=\n
+2	9	9	NUM	_	_	1	nummod	_	SpacesAfter=\n
+3	9	9	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = Сначала долго не могла найти это место)вывески на доме нигде нет)А вообще ресторан очень понравился.
+1	Сначала	сначала	ADV	_	Degree=Pos	4	advmod	_	_
+2	долго	долго	ADV	_	Degree=Pos	4	advmod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	7	det	_	_
+7	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No
+9	вывески	вывески	ADV	_	Degree=Pos	13	advmod	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+12	нигде	нигде	ADV	_	Degree=Pos	13	advmod	_	_
+13	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+15	А	а	CCONJ	_	_	19	cc	_	_
+16	вообще	вообще	ADV	_	Degree=Pos	19	advmod	_	_
+17	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	очень	очень	ADV	_	Degree=Pos	19	advmod	_	_
+19	понравился	понравиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = )вкусные коктейли и суши)Правда в первом зале вид из окна не очень(
+1	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	вкусные	вкусный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	коктейли	коктейль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	parataxis	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	суши	суша	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	Правда	правда	ADV	_	Degree=Pos	16	parataxis	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+11	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+12	из	из	ADP	_	_	13	case	_	_
+13	окна	окно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	очень	очень	ADV	_	Degree=Pos	16	obl	_	SpaceAfter=No
+16	(	(	PUNCT	_	_	0	root	_	SpacesAfter=\n
+

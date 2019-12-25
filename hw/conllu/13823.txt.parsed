@@ -1,0 +1,183 @@
+# newdoc id = senti_testset/13823.txt
+# newpar
+# sent_id = 1
+# text = Зашли в"аппетит" случайно.
+1	Зашли	зайти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	SpaceAfter=No
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	аппетит	аппетит	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	случайно.	случайно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Не смотря на то,что был будний день( вторник 14 сентября) и достаточно много народа, все же решили остаться.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	смотря	смотреть	ADV	_	Polarity=Neg	8	nummod:gov	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	5	det	_	SpaceAfter=No
+5	,что	,что2	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	будний	будний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+9	(	(	PUNCT	_	_	10	punct	_	_
+10	вторник	вторник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	parataxis	_	_
+11	14	14	NUM	_	_	10	nummod	_	_
+12	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	flat	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	10	punct	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	достаточно	достаточно	ADV	_	Degree=Pos	16	advmod	_	_
+16	много	много	ADV	_	Degree=Pos	8	conj	_	_
+17	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	все	все	PART	_	_	21	advmod	_	_
+20	же	же	PART	_	_	19	fixed	_	_
+21	решили	решать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+22	остаться.	остаться	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = нас встретил менеджер- темноволосая стройная девушка, проводила к столу и дала меню.
+1	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	2	obj	_	_
+2	встретил	встретить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	менеджер	менеджер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	7	punct	_	_
+5	темноволосая	темноволосый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	стройная	стройный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	проводила	проводить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	дала	дать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+14	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = Спустя 5 минут пришла официантка, приняла заказ и удалилась.
+1	Спустя	спустя	ADP	_	_	3	case	_	_
+2	5	5	NUM	_	_	3	nummod	_	_
+3	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+4	пришла	прийти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	официантка	официантка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	приняла	принять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	заказ	заказ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	удалилась	удалиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 7
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = Посмотрев вокруг мы подумали что ждать придется долго- ресторан был полон, однако мы ошиблись , ожидание было недолгим- вполне приемлимым для любого заведения,за приятной беседой мы не заметили как прошло время..
+1	Посмотрев	смотреть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	_
+2	вокруг	вокруг	ADP	_	_	3	case	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	4	nsubj	_	_
+4	подумали	подумать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	что	что	SCONJ	_	_	7	mark	_	_
+6	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+7	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	ccomp	_	_
+8	долго	долго	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	12	punct	_	_
+10	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	полон	полный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	однако	однако	ADV	_	Degree=Pos	16	advmod	_	_
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	16	nsubj	_	_
+16	ошиблись	ошибиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	ожидание	ожидание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+19	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
+20	недолгим	недолгий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	23	punct	_	_
+22	вполне	вполне	ADV	_	Degree=Pos	23	advmod	_	_
+23	приемлимым	приемлимый	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	20	parataxis	_	_
+24	для	для	ADP	_	_	26	case	_	_
+25	любого	любой	DET	_	Case=Gen|Gender=Neut|Number=Sing	26	det	_	_
+26	заведения	заведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	33	punct	_	SpaceAfter=No
+28	за	за	ADP	_	_	30	case	_	_
+29	приятной	приятный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	беседой	беседа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	obl	_	_
+31	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	33	nsubj	_	_
+32	не	не	PART	_	_	33	advmod	_	_
+33	заметили	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	_
+34	как	как	SCONJ	_	_	35	mark	_	_
+35	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	advcl	_	_
+36	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 10
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	SpaceAfter=No
+
+# sent_id = 11
+# text = Бизнес ланч, на удивление, оказался очень вкусным и сытным- вполне соответствует своей цене.
+1	Бизнес	бизнес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	ланч	ленч	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	удивление	удивление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	очень	очень	ADV	_	Degree=Pos	9	obl	_	_
+9	вкусным	вкусный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	сытным	сытный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	14	punct	_	_
+13	вполне	вполне	ADV	_	Degree=Pos	14	advmod	_	_
+14	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+15	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	16	det	_	_
+16	цене	цена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	iobj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 12
+# text = В общем очень хорошее место, разнообразное вкусное меню, приемлемые цены и высокое качество обслуживания! нам очень все понравилось. спасибо этому заведению! обязательно придем на выходных.
+1	В	в	ADP	_	_	2	case	_	_
+2	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	nmod	_	_
+3	очень	очень	ADV	_	Degree=Pos	4	obl	_	_
+4	хорошее	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	разнообразное	разнообразный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+8	вкусное	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	приемлемые	приемлемый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	цены	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	conj	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	высокое	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	качество	качество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+16	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	!	!	PUNCT	_	_	5	punct	_	_
+18	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	21	iobj	_	_
+19	очень	очень	ADV	_	Degree=Pos	21	advmod	_	_
+20	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+21	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	21	punct	_	_
+23	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+24	этому	этот	DET	_	Case=Dat|Gender=Neut|Number=Sing	25	det	_	_
+25	заведению	заведение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+26	!	!	PUNCT	_	_	21	punct	_	_
+27	обязательно	обязательно	ADV	_	Degree=Pos	28	advmod	_	_
+28	придем	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	21	conj	_	_
+29	на	на	ADP	_	_	30	case	_	_
+30	выходных	выходной	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	28	obl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n
+

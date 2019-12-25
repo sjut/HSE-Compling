@@ -1,0 +1,81 @@
+# newdoc id = senti_testset/17398.txt
+# newpar
+# sent_id = 1
+# text = Прекрасный ресторан!
+1	Прекрасный	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	ресторан	ресторан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Уютная обстановка и атмосфера, красивый вид на залив.
+1	Уютная	Уютный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	обстановка	обстановка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	атмосфера	атмосфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	красивый	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	залив	залив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+# text = Обслуживание хорошее, вежливый персонал, все пожелания выполнялись.
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	хорошее	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	вежливый	вежливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	_
+5	персонал	персонал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	все	весь	DET	_	Case=Nom|Number=Plur	8	det	_	_
+8	пожелания	пожелание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj:pass	_	_
+9	выполнялись	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = Вкусная еда и порции нормальные, готовили и приносили довольно быстро.
+1	Вкусная	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	еда	еда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	порции	порция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+5	нормальные	нормальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	готовили	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	приносили	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	довольно	довольно	ADV	_	Degree=Pos	11	advmod	_	_
+11	быстро	быстро	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 5
+# text = В целом остались очень хорошие и приятные впечатления от посещения, обязательно придем еще и не один раз.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	остались	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	очень	очень	ADV	_	Degree=Pos	5	obl	_	_
+5	хорошие	хороший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	приятные	приятный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	conj	_	_
+8	впечатления	впечатление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+9	от	от	ADP	_	_	10	case	_	_
+10	посещения	посещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	обязательно	обязательно	ADV	_	Degree=Pos	13	advmod	_	_
+13	придем	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	_
+14	еще	еще	ADV	_	Degree=Pos	18	obl	_	_
+15	и	и	PART	_	_	18	advmod	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	18	nummod:gov	_	_
+18	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Спасибо!
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Надежда С.
+1	Надежда	надежда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	SpacesAfter=\n
+

@@ -1,0 +1,125 @@
+# newdoc id = reviews_train/01002
+# newpar
+# sent_id = 1
+# text = Кавердейл Кабаре Д.Н. 15.02.2013 01:48 2
+1	Кавердейл	Кавердейл	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesBefore=\n\n
+2	Кабаре	Кабар	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\n
+3	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpacesAfter=\n
+5	15.02.2013	15.02.2013	NUM	_	_	3	nummod	_	_
+6	01	01	NUM	_	_	5	nummod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	48	48	NUM	_	_	5	nummod	_	SpacesAfter=\n
+9	2	2	NUM	_	_	8	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = 0 7 1
+1	0	0	NUM	_	_	0	root	_	SpacesAfter=\n
+2	7	7	NUM	_	_	1	nummod	_	SpacesAfter=\n
+3	1	1	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = Дмитрий.
+1	Дмитрий	Дмитрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = 14 февраля посетили это заведение.
+1	14	14	NUM	_	_	3	nummod	_	_
+2	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	посетили	посетить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+5	заведение	заведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Вечер был испорчен.
+1	Вечер	вечер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	испорчен	испортить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Меню ждали 30 минут, а когда его принесли, то были неприятно удивлены его скудностью.
+1	Меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	ждали	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	30	30	NUM	_	_	4	nummod	_	_
+4	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	14	punct	_	_
+6	а	а	CCONJ	_	_	14	cc	_	_
+7	когда	когда	SCONJ	_	_	9	mark	_	_
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obj	_	_
+9	принесли	принести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	то	то	SCONJ	_	_	14	cc	_	_
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+13	неприятно	неприятно	ADV	_	Degree=Pos	14	advmod	_	_
+14	удивлены	удивить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	_
+15	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
+16	скудностью	скудность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Однако заказ так и не смогли сделать, потому что, когда наконец мы дозвались официанта, он нам объяснил, что вначале обслужит уже принятые заказы, а потом подойдет принять у нас заказ.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	заказ	заказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	так	так	ADV	_	Degree=Pos	6	advmod	_	_
+4	и	и	PART	_	_	3	fixed	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	20	punct	_	_
+9	потому	потому	ADV	_	Degree=Pos	20	mark	_	_
+10	что	что	SCONJ	_	_	9	fixed	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	когда	когда	SCONJ	_	_	15	mark	_	_
+13	наконец	наконец	ADV	_	Degree=Pos	15	advmod	_	_
+14	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	15	nsubj	_	_
+15	дозвались	дозваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	20	advcl	_	_
+16	официанта	официант	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	15	punct	_	_
+18	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
+19	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	20	iobj	_	_
+20	объяснил	объяснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	что	что	SCONJ	_	_	24	mark	_	_
+23	вначале	вначале	ADV	_	Degree=Pos	24	advmod	_	_
+24	обслужит	обслужить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+25	уже	уже	ADV	_	Degree=Pos	26	advmod	_	_
+26	принятые	принять	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+27	заказы	заказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	а	а	CCONJ	_	_	31	cc	_	_
+30	потом	потом	ADV	_	Degree=Pos	31	advmod	_	_
+31	подойдет	подойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	conj	_	_
+32	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	31	xcomp	_	_
+33	у	у	ADP	_	_	34	case	_	_
+34	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	32	obl	_	_
+35	заказ	заказ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	obj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# text = И так, подождав еще 20 минут, мы ушли.
+1	И	и	CCONJ	_	_	10	cc	_	_
+2	так	так	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	подождав	подождать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	10	advcl	_	_
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	_
+6	20	20	NUM	_	_	7	nummod	_	_
+7	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	10	nsubj	_	_
+10	ушли	уйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 9
+# text = Спасибо персоналу за испорченный вечер!
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	персоналу	персонал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+3	за	за	ADP	_	_	5	case	_	_
+4	испорченный	испорчить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+
